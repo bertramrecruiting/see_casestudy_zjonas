@@ -1,0 +1,76 @@
+row_id,customer_name_raw,contact_name,phone,email,region,notes,source_tab
+1,Acme Fasteners,Dana Mills,937-555-0102,dmills@acmefasteners.com,Dayton,"Primary contact for AP questions, prefers email",CS Master List
+2,O'Brien Hardware,Sean O'Brien,419-555-0200,,Toledo,Owner wants quarterly check-ins,Sales Tracker
+3,Crestline Industrial Rentals,Beth Carr,614-555-0500,bcarr@crestlinerentals.com,Columbus,"Quoted twice, never ordered -- may just be a prospect",Sales Tracker
+4,Midwest Bearing,Pat Shaw,,,FortWayne,Ask about new freight dock before next order,CS Master List
+5,Hargrove Tool & Die,Unknown,260-555-0146,,FortWayne,"Account flagged inactive in ERP -- confirm status, they called in last month",CS Master List
+6,Harbor Hydraulics,Lisa Shaw,252.555.4934,,Dayton,"Primary contact changed, update when confirmed",CS Master List
+7,Paragon Equipment Co,Mark Nguyen,259-555-4005,ap@paragon.com,Toledo,Requested W9 be resent,Sales Tracker
+8,Cornerstone Rail & Freight,Tom Grier,648-555-1317,,Dayton,Requested W9 be resent,CS Master List
+9,Oakmont Equipment Co,Lisa Keane,888.555.4295,ap@oakmont.com,FortWayne,"New site opening next quarter, may need second ship-to",CS Master List
+10,Timberline Valve & Controls,Pat Reilly,(558) 555-9113,ap@timberline.com,FortWayne,Called to confirm account is still in good standing,Sales Tracker
+11,Plainview Valve & Controls,Dana Reilly,(641) 555-2385,ap@plainview.com,Dayton,"Primary contact changed, update when confirmed",Sales Tracker
+12,Ashworth Fasteners Inc,Mark Patel,(368) 555-6609,ap@ashworth.com,Dayton,Flagged for follow-up after late payment last quarter,CS Master List
+13,Underhill Bearing & Supply,Pat Patel,212-555-4006,ap@underhill.com,Toledo,"New site opening next quarter, may need second ship-to",Sales Tracker
+14,Underhill Hydraulics,Mark Reilly,907.555.3978,ap@underhill.com,Dayton,Asked about volume pricing on repeat orders,Sales Tracker
+15,Sterling Valve & Controls,Sean Nguyen,4785550717,ap@sterling.com,Dayton,"Primary contact changed, update when confirmed",Sales Tracker
+16,Timberline Machine Works,Erin Walsh,6595550612,ap@timberline.com,Dayton,Called to confirm account is still in good standing,Sales Tracker
+17,Cornerstone Fabrication Co,Dana Grier,270-555-7620,ap@cornerstone.com,FortWayne,Asked about volume pricing on repeat orders,CS Master List
+18,Horizon Electrical Distributors,Nora Shaw,641.555.2194,ap@horizon.com,FortWayne,Prefers phone over email for order confirmations,Sales Tracker
+19,Maple Grove Tool & Die,Mark Walsh,720.555.5928,ap@maplegrove.com,Toledo,"Primary contact changed, update when confirmed",CS Master List
+20,Norwood Manufacturing,Erin Mills,490.555.9717,,Toledo,Called to confirm account is still in good standing,CS Master List
+21,Delta Pump & Supply,Lisa Mills,884-555-5632,ap@delta.com,Dayton,Requested W9 be resent,Sales Tracker
+22,Ashworth Bearing & Supply,Erin Walsh,361.555.7179,ap@ashworth.com,Toledo,Requested W9 be resent,Sales Tracker
+23,Meridian Manufacturing,Mark Keane,973-555-0771,ap@meridian.com,Dayton,Prefers phone over email for order confirmations,Sales Tracker
+24,Delta Conveyor Systems,Nora Nguyen,232-555-6868,ap@delta.com,Toledo,Requested W9 be resent,Sales Tracker
+25,Crescent Metal Products,Tom Reilly,9975550701,ap@crescent.com,Dayton,Flagged for follow-up after late payment last quarter,Sales Tracker
+26,Pioneer Rail & Freight,Mark Walsh,652.555.5044,ap@pioneer.com,Dayton,"Primary contact changed, update when confirmed",CS Master List
+27,Lockwood Electrical Distributors,Joan Shaw,862-555-1181,,Dayton,Prefers phone over email for order confirmations,Sales Tracker
+28,Meridian Valve & Controls,Erin Nguyen,699.555.9440,,Toledo,Flagged for follow-up after late payment last quarter,Sales Tracker
+29,Westbrook Machine Works,Sean Shaw,9805550138,ap@westbrook.com,Toledo,Flagged for follow-up after late payment last quarter,Sales Tracker
+30,Ironside Fabrication Co,Nora Keane,8525550839,,Dayton,"Primary contact changed, update when confirmed",CS Master List
+31,Horizon Pump & Supply,Dana Mills,296.555.1588,ap@horizon.com,Toledo,"Primary contact changed, update when confirmed",Sales Tracker
+32,Norwood Electrical Distributors,Sean Patel,991-555-4573,ap@norwood.com,Dayton,Requested W9 be resent,Sales Tracker
+33,Lockwood Equipment Co,Nora Shaw,(688) 555-5301,ap@lockwood.com,Dayton,Requested W9 be resent,CS Master List
+34,Fenwick Hydraulics,Mark Patel,825.555.6431,ap@fenwick.com,FortWayne,Requested W9 be resent,Sales Tracker
+35,Plainview Hydraulics,Pat Mills,503.555.3727,,Dayton,"Primary contact changed, update when confirmed",CS Master List
+36,Ironside Bearing & Supply,Tom Patel,(667) 555-4850,ap@ironside.com,Toledo,Flagged for follow-up after late payment last quarter,CS Master List
+37,Ingleside Fabrication Co,Tom Keane,263.555.7381,ap@ingleside.com,Toledo,Asked about volume pricing on repeat orders,CS Master List
+38,Hilltop Valve & Controls,Mark Patel,458-555-7827,ap@hilltop.com,Toledo,"New site opening next quarter, may need second ship-to",CS Master List
+39,Quarryton Fabrication Co,Erin Reilly,(329) 555-0699,ap@quarryton.com,FortWayne,Prefers phone over email for order confirmations,Sales Tracker
+40,Kingsbridge Fasteners Inc,Nora Reilly,5175550472,,FortWayne,"Primary contact changed, update when confirmed",Sales Tracker
+41,Ridgeline Pump & Supply,Tom Shaw,950-555-1934,ap@ridgeline.com,FortWayne,Asked about volume pricing on repeat orders,Sales Tracker
+42,Kingsbridge Tool & Die,Erin Shaw,453-555-4655,ap@kingsbridge.com,Toledo,Prefers phone over email for order confirmations,CS Master List
+43,Norwood Bearing & Supply,Erin Nguyen,(854) 555-4833,ap@norwood.com,Toledo,Called to confirm account is still in good standing,CS Master List
+44,Pioneer Tool & Die,Tom Shaw,3215550182,ap@pioneer.com,Dayton,"New site opening next quarter, may need second ship-to",Sales Tracker
+45,Pioneer Machine Works,Beth Walsh,629.555.9562,ap@pioneer.com,Toledo,"Primary contact changed, update when confirmed",Sales Tracker
+46,Fairview Industrial Supply,Beth Grier,(710) 555-6084,,Dayton,Requested W9 be resent,Sales Tracker
+47,Clearview Metal Products,Tom Grier,528.555.1680,ap@clearview.com,Dayton,Requested W9 be resent,Sales Tracker
+48,Underhill Manufacturing,Lisa Nguyen,595-555-2492,ap@underhill.com,Dayton,Flagged for follow-up after late payment last quarter,CS Master List
+49,Prairie Tool & Die,Tom Grier,317-555-2971,ap@prairie.com,FortWayne,Asked about volume pricing on repeat orders,CS Master List
+50,Harbor Bearing & Supply,Sean Grier,402-555-6563,,Dayton,Called to confirm account is still in good standing,CS Master List
+51,Brighton Power Transmission,Lisa Keane,(975) 555-8700,ap@brighton.com,Dayton,Prefers phone over email for order confirmations,Sales Tracker
+52,Maple Grove Machine Works,Pat Shaw,569-555-4809,ap@maplegrove.com,FortWayne,"New site opening next quarter, may need second ship-to",Sales Tracker
+53,Prairie Power Transmission,Dana Nguyen,8665550276,ap@prairie.com,Toledo,Prefers phone over email for order confirmations,Sales Tracker
+54,Cedar Point Power Transmission,Joan Keane,281.555.7668,ap@cedarpoint.com,Dayton,"New site opening next quarter, may need second ship-to",Sales Tracker
+55,Eastgate Industrial Supply,Tom Mills,868-555-8109,ap@eastgate.com,Toledo,"Primary contact changed, update when confirmed",CS Master List
+56,Trailside Fabrication Co,Lisa Walsh,(651) 555-7479,ap@trailside.com,Dayton,Prefers phone over email for order confirmations,Sales Tracker
+57,Clearview Rail & Freight,Joan Reilly,766.555.8698,ap@clearview.com,Dayton,Asked about volume pricing on repeat orders,Sales Tracker
+58,Kingsbridge Equipment Co,Dana Shaw,486.555.9767,ap@kingsbridge.com,FortWayne,Flagged for follow-up after late payment last quarter,Sales Tracker
+59,Fenwick Fabrication Co,Pat Mills,7605550258,ap@fenwick.com,Dayton,Called to confirm account is still in good standing,Sales Tracker
+60,Plainview Conveyor Systems,Beth Patel,(816) 555-8393,ap@plainview.com,Dayton,Flagged for follow-up after late payment last quarter,Sales Tracker
+61,Cedar Point Bearing & Supply,Mark Walsh,(726) 555-8335,ap@cedarpoint.com,Dayton,Called to confirm account is still in good standing,CS Master List
+62,Harbor Pump & Supply,Lisa Grier,812-555-8908,ap@harbor.com,Toledo,"Primary contact changed, update when confirmed",Sales Tracker
+63,Cedar Point Pump & Supply,Tom Nguyen,358-555-3111,ap@cedarpoint.com,Toledo,"Primary contact changed, update when confirmed",Sales Tracker
+64,Shoreline Fasteners Inc,Pat Walsh,3085550168,ap@shoreline.com,FortWayne,Called to confirm account is still in good standing,CS Master List
+65,Liberty Bearing & Supply,Erin Keane,6025550220,ap@liberty.com,Dayton,Flagged for follow-up after late payment last quarter,CS Master List
+66,Prospect Industrial 1,Grace Vance,614-555-0500,,Toledo,"Quoted, never ordered -- prospect, not in ERP or CRM",Sales Tracker
+67,Prospect Industrial 2,Grace Vance,614-555-0501,,Toledo,"Quoted, never ordered -- prospect, not in ERP or CRM",Sales Tracker
+68,Prospect Industrial 3,Grace Vance,614-555-0502,,Dayton,"Quoted, never ordered -- prospect, not in ERP or CRM",Sales Tracker
+69,Prospect Industrial 4,Beth Carr,614-555-0503,,FortWayne,"Quoted, never ordered -- prospect, not in ERP or CRM",Sales Tracker
+70,Prospect Industrial 5,Beth Carr,614-555-0504,,FortWayne,"Quoted, never ordered -- prospect, not in ERP or CRM",Sales Tracker
+71,Prospect Industrial 6,Grace Vance,614-555-0505,,FortWayne,"Quoted, never ordered -- prospect, not in ERP or CRM",Sales Tracker
+72,Prospect Industrial 7,Omar Lund,614-555-0506,,FortWayne,"Quoted, never ordered -- prospect, not in ERP or CRM",Sales Tracker
+73,Prospect Industrial 8,Grace Vance,614-555-0507,,Dayton,"Quoted, never ordered -- prospect, not in ERP or CRM",Sales Tracker
+74,Prospect Industrial 9,Grace Vance,614-555-0508,,FortWayne,"Quoted, never ordered -- prospect, not in ERP or CRM",Sales Tracker
+75,Prospect Industrial 10,Beth Carr,614-555-0509,,Dayton,"Quoted, never ordered -- prospect, not in ERP or CRM",Sales Tracker

@@ -1,0 +1,206 @@
+crm_account_id,account_name,erp_customer_id,owner_sales_rep,industry,website,phone,created_date,last_activity_date
+A-01,Acme Fasteners,C-1001,J. Palmer,Industrial Distribution,acmefasteners.com,937-555-0101,2020-01-10,2024-11-02
+A-02,Acme Fasteners Inc.,C-1001,R. Dunn,Industrial Distribution,,937-555-0150,2022-06-01,2023-02-14
+A-03,O'Brien Hardware,C-1002,J. Palmer,Hardware / MRO,obrienhardware.com,419-555-0199,2019-03-20,2024-09-30
+A-04,Midwest Bearing & Supply,C-1003,T. Alvarez,Power Transmission,midwestbearing.com,260-555-0134,2018-11-05,2024-10-15
+A-05,Buckeye Industrial Supply,C-1005,R. Dunn,Industrial Distribution,buckeyeindustrial.com,614-555-0177,2021-02-02,2024-08-01
+A-06,Great Lakes Fabrication,C-9999,T. Alvarez,Metal Fabrication,,419-555-0250,,2024-03-11
+A-07,Summit Valve & Controls,C-1009,J. Palmer,Industrial Distribution,summitvalve.com,614-555-0160,2022-09-18,2024-10-28
+A-08,Hargrove Tool & Die,C-1008,R. Dunn,Tooling,,260-555-0145,2017-09-01,2024-01-05
+A-09,Vantage Hydraulics,,T. Alvarez,Hydraulics,,260-555-0310,,2024-10-01
+A-100,Lockwood Electrical Distributors,C-2174,M. Fitzgerald,Electrical Distribution,,862-555-1181,2022-09-20,2023-07-18
+A-101,Fenwick Fabrication Co,C-2157,A. Reyes,Hardware / MRO,,7605550258,2018-03-06,2023-07-10
+A-102,Granite Bearing & Supply,C-2161,R. Dunn,Tooling,,(997) 555-5875,2017-10-25,2024-01-15
+A-103,Fenwick Conveyor Systems,C-2176,K. Osei,Tooling,,849-555-2360,2018-10-22,2024-08-14
+A-104,Ingleside Fabrication Co,C-2059,M. Fitzgerald,Metal Fabrication,,263.555.7381,2021-11-18,2023-01-06
+A-105,Timberline Machine Works,C-2107,T. Alvarez,Hydraulics,,6595550612,2017-01-04,2024-03-06
+A-106,Frontier Fabrication Co,C-2062,K. Osei,Hydraulics,,938.555.7170,2017-02-25,2024-06-12
+A-107,Shoreline Rail & Freight,C-2147,K. Osei,Hardware / MRO,,958.555.7937,2017-12-28,2024-06-17
+A-108,Bellwood Pump & Supply,C-2040,J. Palmer,Power Transmission,,890-555-8742,2020-12-23,2024-07-20
+A-109,Oakmont Hydraulics,C-2110,R. Dunn,Rail & Freight,,(614) 555-3022,2021-12-21,2024-08-26
+A-110,Paragon Hydraulics,C-2080,J. Palmer,Power Transmission,,719-555-8351,2017-08-21,2023-12-28
+A-111,Brighton Power Transmission,C-2155,M. Fitzgerald,Tooling,,(975) 555-8700,2017-11-07,2024-05-26
+A-112,Northgate Valve & Controls,C-2085,J. Palmer,Power Transmission,,(437) 555-8767,2022-06-11,2024-12-19
+A-113,Shoreline Metal Products,C-2115,J. Palmer,Hardware / MRO,,487.555.9778,2020-03-21,2024-09-11
+A-114,Ironside Fasteners Inc,C-2139,A. Reyes,Hydraulics,,6485550750,2021-09-01,2023-10-22
+A-115,Cornerstone Rail & Freight,C-2034,J. Palmer,Hydraulics,,648-555-1317,2020-11-18,2023-10-20
+A-116,Union Equipment Co,C-2053,T. Alvarez,Electrical Distribution,,629.555.7432,2017-08-08,2024-08-27
+A-117,Plainview Fasteners Inc.,C-2168,J. Palmer,Tooling,,3095550025,2017-08-17,2023-08-17
+A-118,Fenwick Rail & Freight,C-2036,M. Fitzgerald,Metal Fabrication,,408.555.4375,2023-06-05,2023-09-22
+A-119,Granite Pump & Supply,C-2149,M. Fitzgerald,Power Transmission,,4755550667,2017-05-02,2023-06-15
+A-120,Underhill Conveyor Systems,C-2206,J. Palmer,Metal Fabrication,,733.555.3415,2022-04-11,2023-04-10
+A-121,Westbrook Machine Works,C-2217,T. Alvarez,Hardware / MRO,,9805550138,2018-05-04,2023-10-18
+A-122,Timberline Valve & Controls,C-2052,T. Alvarez,Hardware / MRO,,(558) 555-9113,2022-05-19,2023-03-03
+A-123,Pioneer Rail & Freight,C-2202,J. Palmer,Rail & Freight,,652.555.5044,2022-01-04,2024-01-03
+A-124,Norwood Equipment Co,C-2210,A. Reyes,Rail & Freight,,827-555-4638,2021-06-10,2024-04-23
+A-125,Prairie Tool & Die,C-2177,A. Reyes,Rail & Freight,,317-555-2971,2017-08-10,2024-08-08
+A-126,Trailside Tool & Die,C-2181,R. Dunn,Hydraulics,,424.555.7989,2023-06-15,2024-01-03
+A-127,Bellwood Metal Products,C-2135,T. Alvarez,Hydraulics,,7895550866,2021-10-05,2023-07-27
+A-128,Ingleside Manufacturing,C-2035,M. Fitzgerald,Rail & Freight,,4955550678,2020-10-14,2023-10-08
+A-129,Fenwick Hydraulics,C-2111,A. Reyes,Electrical Distribution,,825.555.6431,2023-07-19,2024-09-23
+A-130,Underhill Manufacturing,C-2038,K. Osei,Power Transmission,,3525550457,2021-10-15,2024-09-04
+A-131,Clearview Power Transmission,C-2203,J. Palmer,Electrical Distribution,,(582) 555-3089,2019-08-21,2023-02-07
+A-132,Paragon Pump & Supply,C-2145,K. Osei,Metal Fabrication,,629-555-1843,2020-10-19,2024-04-07
+A-133,Plainview Valve & Controls,C-2041,K. Osei,Hydraulics,,(641) 555-2385,2017-10-01,2024-03-28
+A-134,Quarryton Tool & Die,C-2082,J. Palmer,Hydraulics,,550.555.8950,2017-05-28,2023-04-14
+A-135,Paragon Manufacturing,C-2018,K. Osei,Tooling,,925-555-7144,2022-03-16,2023-04-18
+A-136,Delta Pump & Supply,C-2143,A. Reyes,Industrial Distribution,,884-555-5632,2018-12-16,2024-03-03
+A-137,Riverside Tool & Die,C-2137,K. Osei,Hardware / MRO,,800.555.1655,2020-09-14,2024-07-12
+A-138,Hilltop Valve & Controls,C-2031,A. Reyes,Tooling,,458-555-7827,2022-09-09,2024-09-19
+A-139,Trailside Electrical Distributors,C-2048,J. Palmer,Rail & Freight,,(483) 555-2370,2022-02-05,2024-08-17
+A-140,Cornerstone Machine Works,C-2186,M. Fitzgerald,Metal Fabrication,,9145550542,2021-01-11,2023-08-15
+A-141,Ridgeline Equipment Co,C-2190,T. Alvarez,Metal Fabrication,,649.555.0175,2018-01-23,2024-12-26
+A-142,Quarryton Valve & Controls,C-2008,M. Fitzgerald,Industrial Distribution,,(453) 555-3681,2022-05-26,2023-05-16
+A-143,Riverside Equipment Co,C-2180,T. Alvarez,Metal Fabrication,,428.555.9660,2023-05-01,2023-10-06
+A-144,Anchor Fasteners Inc,C-2106,A. Reyes,Tooling,,4875550836,2020-03-26,2023-06-03
+A-145,Timberline Rail & Freight,C-2199,K. Osei,Electrical Distribution,,281.555.2654,2018-11-15,2023-04-19
+A-146,Horizon Electrical Distributors,C-2078,R. Dunn,Rail & Freight,,641.555.2194,2020-08-10,2024-12-25
+A-147,Underhill Power Transmission,C-2114,T. Alvarez,Hardware / MRO,,(978) 555-7231,2021-07-01,2024-08-13
+A-148,Ironside Valve & Controls,C-2164,K. Osei,Metal Fabrication,,773.555.9829,2019-05-09,2023-05-21
+A-149,Liberty Equipment Co,C-2071,A. Reyes,Tooling,,596.555.9202,2021-06-22,2023-06-18
+A-150,Underhill Manufacturing,C-2039,K. Osei,Hydraulics,,595-555-2492,2018-12-10,2024-04-02
+A-151,Harbor Manufacturing,C-2049,A. Reyes,Power Transmission,,715.555.3629,2022-02-03,2023-07-22
+A-152,Kingsbridge Equipment Co,C-2028,K. Osei,Power Transmission,,486.555.9767,2022-08-09,2024-12-22
+A-153,Fairview Industrial Supply,C-2205,J. Palmer,Electrical Distribution,,(710) 555-6084,2020-06-02,2024-05-06
+A-154,Northgate Conveyor Systems,C-2194,K. Osei,Hardware / MRO,,8925550978,2022-08-04,2023-09-25
+A-155,Liberty Valve & Controls,C-2007,A. Reyes,Metal Fabrication,,3315550675,2017-01-03,2023-10-24
+A-156,Oakmont Metal Products,C-2219,A. Reyes,Industrial Distribution,,5125550460,2017-11-13,2024-03-23
+A-157,Prairie Bearing & Supply,C-2158,A. Reyes,Power Transmission,,5665550720,2021-04-01,2024-12-27
+A-158,Clearview Metal Products,C-2069,T. Alvarez,Metal Fabrication,,528.555.1680,2020-01-21,2023-06-18
+A-159,Ashworth Fasteners Inc,C-2156,R. Dunn,Hardware / MRO,,(368) 555-6609,2021-01-13,2023-05-23
+A-160,Jasper Power Transmission,C-2146,K. Osei,Tooling,,250.555.7785,2018-01-07,2023-12-19
+A-161,Maple Grove Machine Works,C-2172,K. Osei,Industrial Distribution,,569-555-4809,2017-06-02,2024-12-02
+A-162,Granite Metal Products,C-2060,K. Osei,Hardware / MRO,,2965550571,2022-10-08,2023-01-24
+A-163,Delta Valve & Controls,C-2153,J. Palmer,Tooling,,674-555-1929,2022-11-05,2023-03-21
+A-164,Westbrook Pump & Supply,C-2163,M. Fitzgerald,Power Transmission,,2905550877,2023-02-04,2024-10-26
+A-165,Sterling Manufacturing,C-2218,A. Reyes,Electrical Distribution,,633-555-5984,2019-02-22,2023-06-27
+A-166,Liberty Bearing & Supply,C-2165,K. Osei,Hardware / MRO,,6025550220,2022-06-18,2023-08-08
+A-167,Delta Conveyor Systems,C-2092,J. Palmer,Rail & Freight,,232-555-6868,2017-01-01,2023-02-23
+A-168,Pioneer Rail & Freight,C-2021,K. Osei,Hardware / MRO,,5245550972,2018-03-21,2024-09-15
+A-169,Crescent Industrial Supply,C-2123,R. Dunn,Rail & Freight,,9855550425,2021-02-21,2024-06-14
+A-170,Dunmore Valve & Controls,C-2192,M. Fitzgerald,Tooling,,(456) 555-7254,2020-11-22,2023-05-02
+A-171,Ironside Fabrication Co,C-2129,K. Osei,Rail & Freight,,8525550839,2018-03-22,2023-01-21
+A-172,Fairview Electrical Distributors,C-2121,K. Osei,Industrial Distribution,,(522) 555-2290,2017-12-02,2023-03-26
+A-173,Bellwood Conveyor Systems,C-2096,T. Alvarez,Electrical Distribution,,5685550525,2018-12-22,2024-04-25
+A-174,Fairview Rail & Freight,C-2166,R. Dunn,Power Transmission,,(799) 555-7912,2020-10-16,2023-07-05
+A-175,Delta Valve & Controls,C-2100,R. Dunn,Hydraulics,,(586) 555-9055,2019-04-11,2023-01-23
+A-176,Underhill Bearing & Supply,C-2126,T. Alvarez,Tooling,,212-555-4006,2019-10-06,2023-10-18
+A-177,Maple Grove Valve & Controls,C-2122,R. Dunn,Rail & Freight,,595-555-1847,2023-08-09,2023-12-14
+A-178,Horizon Manufacturing,C-2197,M. Fitzgerald,Hardware / MRO,,711.555.2203,2021-01-14,2023-01-16
+A-179,Ashworth Pump & Supply,C-2042,A. Reyes,Power Transmission,,9065550256,2020-08-08,2023-09-25
+A-180,Ironside Fasteners Inc,C-2050,J. Palmer,Industrial Distribution,,590-555-9787,2020-11-10,2023-12-15
+A-181,Kingsbridge Fasteners Inc,C-2058,R. Dunn,Electrical Distribution,,5175550472,2018-06-21,2024-12-21
+A-182,Horizon Pump & Supply,C-2009,J. Palmer,Metal Fabrication,,296.555.1588,2020-05-23,2023-11-03
+A-183,Prairie Valve & Controls,C-2105,T. Alvarez,Industrial Distribution,,938-555-8123,2017-07-12,2024-10-02
+A-184,Plainview Conveyor Systems,C-2004,M. Fitzgerald,Tooling,,267.555.3456,2018-06-08,2023-11-16
+A-185,Sterling Fabrication Co,C-2070,M. Fitzgerald,Electrical Distribution,,235.555.2068,2019-01-03,2024-06-15
+A-186,Fairview Equipment Co,C-2175,M. Fitzgerald,Metal Fabrication,,206-555-1036,2020-10-12,2023-04-15
+A-187,Underhill Metal Products,C-2057,J. Palmer,Power Transmission,,305-555-2399,2018-05-04,2023-08-05
+A-188,Meridian Power Transmission,C-2198,M. Fitzgerald,Hardware / MRO,,(463) 555-5638,2020-06-14,2024-12-21
+A-189,Sterling Valve & Controls,C-2204,K. Osei,Hydraulics,,4785550717,2022-11-26,2024-08-19
+A-190,Norwood Electrical Distributors,C-2017,T. Alvarez,Hardware / MRO,,991-555-4573,2023-05-08,2024-06-10
+A-191,Lockwood Rail & Freight,C-2046,M. Fitzgerald,Hardware / MRO,,3385550397,2022-09-10,2023-03-27
+A-192,Eastgate Industrial Supply,C-2113,T. Alvarez,Hydraulics,,868-555-8109,2018-04-18,2023-11-11
+A-193,Maple Grove Metal Products,C-2191,M. Fitzgerald,Metal Fabrication,,796.555.5703,2017-01-13,2024-03-15
+A-194,Fairview Pump & Supply,C-2079,M. Fitzgerald,Hydraulics,,771-555-5990,2022-12-10,2024-05-25
+A-195,Bellwood Electrical Distributors,C-2063,T. Alvarez,Power Transmission,,(714) 555-8641,2022-08-02,2023-11-18
+A-196,Horizon Machine Works,C-2089,K. Osei,Hydraulics,,(263) 555-8972,2017-06-02,2023-10-17
+A-197,Brighton Hydraulics,C-2141,J. Palmer,Electrical Distribution,,619-555-9078,2018-08-11,2023-11-12
+A-198,Cornerstone Fabrication Co,C-2127,T. Alvarez,Hydraulics,,270-555-7620,2019-05-15,2023-04-24
+A-199,Cornerstone Conveyor Systems,C-2216,K. Osei,Electrical Distribution,,(526) 555-8846,2018-10-20,2023-03-07
+A-200,Cedar Point Bearing & Supply,C-2173,M. Fitzgerald,Electrical Distribution,,(726) 555-8335,2017-01-14,2024-07-06
+A-201,Elmhurst Equipment Co,C-2032,R. Dunn,Electrical Distribution,,(835) 555-0986,2019-09-16,2023-05-27
+A-202,Cornerstone Industrial Supply,C-2055,J. Palmer,Industrial Distribution,,920-555-3770,2018-05-10,2024-02-21
+A-203,Harbor Bearing & Supply,C-2132,R. Dunn,Industrial Distribution,,402-555-6563,2017-05-16,2023-10-24
+A-204,Brighton Pump & Supply,C-2188,A. Reyes,Rail & Freight,,(973) 555-3337,2022-02-12,2023-05-06
+A-205,Trailside Pump & Supply,C-2006,R. Dunn,Hydraulics,,(712) 555-2927,2018-01-09,2024-07-21
+A-206,Plainview Industrial Supply,C-2220,J. Palmer,Tooling,,374-555-0984,2023-11-06,2023-10-25
+A-207,Ridgeline Electrical Distributors,C-2095,A. Reyes,Metal Fabrication,,(979) 555-9626,2019-11-23,2024-02-18
+A-208,Vanguard Machine Works,C-2134,K. Osei,Electrical Distribution,,6915550557,2019-03-04,2023-03-17
+A-209,Timberline Electrical Distributors,C-2169,M. Fitzgerald,Power Transmission,,960-555-9195,2020-08-03,2023-03-01
+A-210,Timberline Conveyor Systems,C-2093,K. Osei,Hydraulics,,442-555-4944,2018-12-10,2023-12-27
+A-211,Harbor Pump & Supply,C-2187,R. Dunn,Metal Fabrication,,812-555-8908,2018-04-05,2023-07-23
+A-212,Prairie Bearing & Supply,C-2051,J. Palmer,Tooling,,287.555.1527,2017-01-26,2023-08-04
+A-213,Quarryton Fabrication Co,C-2144,J. Palmer,Power Transmission,,(329) 555-0699,2021-04-19,2023-03-22
+A-214,Pioneer Equipment Co,C-2213,R. Dunn,Tooling,,9825550648,2021-10-03,2023-10-25
+A-215,Pioneer Tool & Die,C-2074,R. Dunn,Industrial Distribution,,(356) 555-4982,2022-02-07,2024-06-23
+A-216,Cornerstone Pump & Supply,C-2077,T. Alvarez,Electrical Distribution,,(454) 555-2616,2020-04-17,2023-07-04
+A-217,Oakmont Conveyor Systems,C-2162,A. Reyes,Metal Fabrication,,643-555-4072,2021-12-02,2023-06-16
+A-218,Northgate Fabrication Co,C-2068,A. Reyes,Rail & Freight,,492.555.5848,2018-09-14,2024-07-07
+A-219,Plainview Power Transmission,C-2083,M. Fitzgerald,Power Transmission,,(787) 555-8899,2017-03-13,2024-12-19
+A-220,Pioneer Tool & Die,C-2091,R. Dunn,Electrical Distribution,,3215550182,2017-04-27,2024-12-16
+A-221,Meridian Manufacturing,C-2005,A. Reyes,Electrical Distribution,,973-555-0771,2019-08-22,2024-08-17
+A-222,Crescent Metal Products,C-2067,A. Reyes,Hardware / MRO,,9975550701,2017-02-24,2023-02-16
+A-223,Glendale Tool & Die,C-2014,T. Alvarez,Power Transmission,,2945550649,2023-02-22,2024-08-07
+A-224,Elmhurst Rail & Freight,C-2200,M. Fitzgerald,Industrial Distribution,,4155550170,2023-01-14,2023-07-15
+A-225,Northgate Electrical Distributors,C-2148,M. Fitzgerald,Metal Fabrication,,569-555-3262,2022-03-16,2024-03-10
+A-226,Vanguard Electrical Distributors,C-2207,M. Fitzgerald,Rail & Freight,,2435550595,2020-09-28,2023-09-02
+A-227,Montrose Hydraulics,C-2119,A. Reyes,Hydraulics,,(920) 555-1559,2023-05-11,2023-01-19
+A-228,Montrose Fabrication Co,C-2098,J. Palmer,Hydraulics,,(622) 555-2252,2020-02-14,2024-06-14
+A-229,Cedar Point Machine Works,C-2103,M. Fitzgerald,Power Transmission,,474-555-2526,2022-02-28,2024-02-11
+A-230,Frontier Conveyor Systems,C-2108,K. Osei,Electrical Distribution,,640.555.1735,2019-01-23,2024-10-01
+A-231,Plainview Manufacturing,C-2094,K. Osei,Power Transmission,,7755550422,2022-11-07,2024-08-17
+A-232,Quarryton Rail & Freight,C-2072,R. Dunn,Rail & Freight,,763.555.8882,2022-02-27,2023-05-09
+A-233,Oakmont Conveyor Systems,C-2140,A. Reyes,Power Transmission,,3745550909,2022-10-04,2024-05-03
+A-234,Ironside Bearing & Supply,C-2159,J. Palmer,Metal Fabrication,,(667) 555-4850,2021-05-14,2024-04-14
+A-235,Meridian Conveyor Systems,C-2081,M. Fitzgerald,Hardware / MRO,,3955550019,2017-11-23,2023-10-16
+A-236,Westbrook Manufacturing,C-2154,M. Fitzgerald,Electrical Distribution,,520.555.0950,2021-12-21,2023-09-07
+A-237,Riverside Fabrication Co,C-2025,T. Alvarez,Electrical Distribution,,4445550129,2020-06-28,2023-11-07
+A-238,Liberty Tool & Die,C-2179,M. Fitzgerald,Tooling,,861.555.9938,2020-04-04,2023-04-01
+A-239,Ashworth Fabrication Co,C-2133,K. Osei,Industrial Distribution,,(591) 555-6990,2018-03-09,2023-01-09
+A-240,Harbor Manufacturing,C-2090,A. Reyes,Rail & Freight,,940-555-0356,2023-01-02,2023-06-20
+A-241,Northgate Rail & Freight,C-2170,J. Palmer,Electrical Distribution,,(759) 555-9885,2023-12-27,2023-04-04
+A-242,Glendale Manufacturing,C-2037,M. Fitzgerald,Metal Fabrication,,6255550854,2020-02-08,2023-06-11
+A-243,Hartley Hydraulics,C-2209,J. Palmer,Hardware / MRO,,7545550375,2018-05-15,2024-05-28
+A-244,Underhill Power Transmission,C-2022,J. Palmer,Hydraulics,,3545550236,2021-07-16,2023-05-26
+A-245,Trailside Fabrication Co,C-2118,J. Palmer,Industrial Distribution,,(651) 555-7479,2023-12-22,2023-12-26
+A-246,Pioneer Pump & Supply,C-2195,A. Reyes,Hydraulics,,(753) 555-0533,2023-11-04,2023-08-13
+A-247,Glendale Pump & Supply,C-2084,R. Dunn,Metal Fabrication,,6235550338,2018-03-15,2024-11-14
+A-248,Anchor Bearing & Supply,C-2086,K. Osei,Electrical Distribution,,5385550166,2023-06-23,2024-02-27
+A-249,Maple Grove Valve & Controls,C-2019,M. Fitzgerald,Hydraulics,,(508) 555-6653,2020-12-01,2023-11-21
+A-250,Dunmore Manufacturing,C-2104,J. Palmer,Power Transmission,,(498) 555-6779,2018-04-17,2023-10-22
+A-251,Paragon Bearing & Supply,C-2112,T. Alvarez,Hardware / MRO,,(628) 555-9771,2022-10-27,2024-05-07
+A-252,Pioneer Machine Works,C-2012,J. Palmer,Tooling,,629.555.9562,2017-08-07,2024-12-28
+A-253,Keystone Valve & Controls,C-2065,R. Dunn,Power Transmission,,3535550561,2019-03-19,2023-01-23
+A-254,Brighton Industrial Supply,C-2015,R. Dunn,Tooling,,640.555.2088,2018-05-10,2024-07-05
+A-255,Fenwick Industrial Supply,C-2024,A. Reyes,Tooling,,386.555.0823,2020-03-14,2023-01-10
+A-256,Prairie Tool & Die,C-2185,M. Fitzgerald,Rail & Freight,,664-555-9773,2017-01-16,2023-06-23
+A-257,Underhill Hydraulics,C-2026,T. Alvarez,Power Transmission,,907.555.3978,2017-09-02,2023-06-08
+A-258,Prairie Power Transmission,C-2027,M. Fitzgerald,Industrial Distribution,,8665550276,2017-05-17,2024-05-13
+A-259,Hartley Electrical Distributors,C-2152,K. Osei,Hydraulics,,887-555-5873,2020-03-03,2024-12-17
+A-260,Clearview Rail & Freight,C-2029,T. Alvarez,Hydraulics,,766.555.8698,2020-05-09,2024-09-11
+A-261,Hilltop Hydraulics,C-2002,R. Dunn,Rail & Freight,,304-555-1519,2017-04-05,2023-04-06
+A-262,Cedar Point Tool & Die,C-2102,K. Osei,Industrial Distribution,,819.555.9758,2020-06-23,2024-08-16
+A-263,Plainview Hydraulics,C-2030,T. Alvarez,Hardware / MRO,,503.555.3727,2023-03-24,2024-10-22
+A-264,Harbor Rail & Freight,C-2183,M. Fitzgerald,Hardware / MRO,,8765550235,2020-02-08,2024-11-04
+A-265,Kingsbridge Tool & Die,C-2201,K. Osei,Hydraulics,,453-555-4655,2021-02-27,2024-03-01
+A-266,Ashworth Bearing & Supply,C-2013,M. Fitzgerald,Industrial Distribution,,361.555.7179,2019-01-21,2024-06-24
+A-267,Vanguard Metal Products,C-2208,T. Alvarez,Hydraulics,,2215550705,2023-01-24,2023-09-20
+A-268,Paragon Equipment Co,C-2124,K. Osei,Power Transmission,,259-555-4005,2017-04-06,2024-07-10
+A-269,Shoreline Fasteners Inc,C-2130,T. Alvarez,Hardware / MRO,,3085550168,2019-11-04,2024-09-07
+A-270,Maple Grove Tool & Die,C-2061,K. Osei,Power Transmission,,720.555.5928,2023-07-26,2024-10-06
+A-271,Oakmont Equipment Co,C-2045,A. Reyes,Hardware / MRO,,888.555.4295,2020-09-21,2023-05-15
+A-272,Lockwood Fasteners Inc,C-2151,A. Reyes,Metal Fabrication,,258.555.9830,2023-04-17,2024-05-19
+A-273,Ironside Hydraulics,C-2075,M. Fitzgerald,Electrical Distribution,,(229) 555-1330,2020-02-15,2024-06-09
+A-274,Cedar Point Pump & Supply,C-2011,K. Osei,Industrial Distribution,,358-555-3111,2017-07-23,2024-06-19
+A-275,Horizon Bearing & Supply,C-2178,R. Dunn,Tooling,,910.555.9571,2018-02-24,2024-11-04
+A-276,Liberty Rail & Freight,C-2117,K. Osei,Rail & Freight,,6075550223,2022-07-28,2024-05-20
+A-277,Keystone Tool & Die,C-2184,R. Dunn,Industrial Distribution,,7295550981,2018-02-27,2023-12-07
+A-278,Delta Conveyor Systems,C-2193,K. Osei,Tooling,,(295) 555-6536,2017-05-25,2024-03-16
+A-279,Bellwood Bearing & Supply,C-2109,K. Osei,Industrial Distribution,,6945550356,2023-08-19,2023-04-10
+A-280,Trailside Tool & Die,C-2181,K. Osei,Rail & Freight,,424.555.7989,2023-01-15,2024-02-01
+A-281,Hilltop Hydraulics,C-2002,A. Reyes,Rail & Freight,,304-555-1519,2023-01-15,2024-02-01
+A-282,Timberlinenveyor Systems Inc.,C-2093,K. Osei,Hydraulics,,442-555-4944,2023-01-15,2024-02-01
+A-283,Plainview Industrial Supply,C-2220,K. Osei,Power Transmission,,374-555-0984,2023-01-15,2024-02-01
+A-284,Vanguard Electrical Distributors,C-2207,T. Alvarez,Rail & Freight,,2435550595,2023-01-15,2024-02-01
+A-285,Anchor Bearing & Supply Co.,C-2086,K. Osei,Hydraulics,,5385550166,2023-01-15,2024-02-01
+A-286,Lakeshore Industrial Products,C-9900,K. Osei,Tooling,,614-555-0999,,2024-05-01
+A-287,Blackstone Fabricators,C-9901,M. Fitzgerald,Tooling,,614-555-0999,,2024-05-01
+A-288,Redwood Supply Co,C-9902,M. Fitzgerald,Hydraulics,,614-555-0999,,2024-05-01
+A-289,Carrington Metal Works,C-9903,M. Fitzgerald,Rail & Freight,,614-555-0999,,2024-05-01
+A-290,Vantage Hydraulics,,R. Dunn,Metal Fabrication,,614-555-0500,,2024-06-01
+A-291,Northfield Tooling,,A. Reyes,Electrical Distribution,,614-555-0500,,2024-06-01
+A-292,Garrison Industrial Group,,K. Osei,Hydraulics,,614-555-0500,,2024-06-01
+A-293,Sawtooth Fabrication,,K. Osei,Hardware / MRO,,614-555-0500,,2024-06-01
+A-294,Brightline Equipment,,M. Fitzgerald,Tooling,,614-555-0500,,2024-06-01
+A-295,Claremont Rail Supply,,T. Alvarez,Power Transmission,,614-555-0500,,2024-06-01

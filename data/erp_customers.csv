@@ -1,0 +1,250 @@
+customer_id,customer_name,tax_id,billing_address,billing_city,billing_state,billing_zip,shipping_address,shipping_city,shipping_state,shipping_zip,phone,email,payment_terms,credit_limit,credit_status,active_flag,erp_location,parent_customer_id,created_date
+C-1001,Acme Fasteners Inc,84-1234567,100 Industrial Pkwy,Dayton,OH,45402,100 Industrial Pkwy,Dayton,OH,45402,937-555-0101,ap@acmefasteners.com,NET30,50000.0,Good,1,Dayton,,2014-03-11
+C-4410,Acme Fastener Inc.,84-1234567,100 Industrial Parkway,Dayton,OH,45402,220 Spur Rd,Dayton,OH,45402,(937) 555-0101,orders@acmefasteners.com,NET30,50000.0,Good,1,Dayton,,2019-07-22
+C-1002,O'Brien Hardware & Supply,84-2233445,450 Commerce St,Toledo,OH,43604,450 Commerce St,Toledo,OH,43604,419.555.0199,billing@obrienhardware.com,NET30,25000.0,Good,1,Toledo,,2015-01-05
+C-2207,OBrien Hardware LLC,,452 Commerce Street,Toledo,OH,43604,452 Commerce Street,Toledo,OH,43604,4195550199,,NET15,10000.0,Hold,1,Toledo,,2021-11-02
+C-1003,Midwest Bearing & Supply Co,84-9988776,77 Foundry Rd,Fort Wayne,IN,46802,77 Foundry Rd,Fort Wayne,IN,46802,260-555-0134,accounting@midwestbearing.com,NET45,75000.0,Good,1,FortWayne,,2012-09-30
+C-1004,Midwest Bearing dba Hoosier Power Transmission,84-9988776,77 Foundry Rd,Fort Wayne,IN,46802,77 Foundry Rd,Fort Wayne,IN,46802,260-555-0134,accounting@midwestbearing.com,NET45,75000.0,Good,1,FortWayne,C-1003,2020-02-14
+C-1005,Buckeye Industrial Supply,84-3344556,900 Rail Yard Dr,Columbus,OH,43222,900 Rail Yard Dr,Columbus,OH,43222,614-555-0177,orders@buckeyeindustrial.com,NET30,40000.0,Good,1,Dayton,,2016-06-18
+C-1006,Lakeside Machine Works,,12 Harbor Ln,Toledo,OH,43605,,,,,419-555-0188,,Prepay,,Hold,0,Toledo,,2013-04-01
+C-1007,TEST CUSTOMER DO NOT USE,000000000,123 Test St,Test,OH,00000,123 Test St,Test,OH,00000,000-000-0000,test@test.com,NET30,999999.0,Good,1,Dayton,,2018-01-01
+C-1008,Hargrove Tool & Die,84-5566778,33 Machine Ave,Fort Wayne,IN,46803,33 Machine Ave,Fort Wayne,IN,46803,260-555-0145,purchasing@hargrovetool.com,NET30,30000.0,Good,0,FortWayne,,2017-08-09
+C-1009,Summit Valve & Controls,84-6677889,5 Industrial Ct,Columbus,OH,43223,5 Industrial Ct,Columbus,OH,43223,614-555-0160,ap@summitvalve.com,NET30,60000.0,Good,1,Dayton,,2019-10-03
+C-1010,Riverfront Pump & Supply,84-7788990,19 Riverside Dr,Dayton,OH,45403,19 Riverside Dr,Dayton,OH,45403,937-555-0177,ap@riverfrontpump.com,NET30,-5000.0,Good,1,Dayton,,2015-12-22
+C-1011,Great Lakes Conveyor Systems,84-8899001,410 Dock St,Toledo,,43604,410 Dock St,Toledo,,43604,419-555-0190,info@glconveyor.com,NET30,45000.0,Good,1,Toledo,,03/15/2016
+C-1012,Spartan Electrical Distributors,84-9900112,88 Power Row,Fort Wayne,IN,46804,88 Power Row,Fort Wayne,IN,46804,260-555-0199,orders@spartanelectrical.com,NET30,55000.0,Good,1,FortWayne,,2020-05-19
+C-1012,Spartan Electrical Distributors,84-9900112,88 Power Row,Fort Wayne,IN,46804,88 Power Row,Fort Wayne,IN,46804,260-555-0001,orders@spartanelectrical.com,NET30,55000.0,Good,1,FortWayne,,2020-05-19
+C-2001,Lockwood Bearing & Supply,84-2719583,760 Harbor Ln,Dayton,OH,44003,760 Harbor Ln,Dayton,OH,44003,(289) 555-9674,ap@lockwood.com,NET30,75000.0,Good,1,Dayton,,2021-05-26
+C-2002,Hilltop Hydraulics,84-6647119,349 Harbor Ln,Cincinnati,OH,43636,349 Harbor Ln,Cincinnati,OH,43636,304-555-1519,ap@hilltop.com,NET30,50000.0,Good,1,Dayton,,2017-10-07
+C-2003,Quarryton Machine Works,84-2338687,678 Rail Yard Dr,Dayton,OH,46166,678 Rail Yard Dr,Dayton,OH,46166,664.555.5977,ap@quarryton.com,NET15,15000.0,Good,1,Dayton,,2018-05-21
+C-2004,Plainview Conveyor Systems,,864 Freight Way,South Bend,IN,46178,864 Freight Way,South Bend,IN,46178,267.555.3456,ap@plainview.com,Prepay,50000.0,Good,1,FortWayne,,2023-09-18
+C-2005,Meridian Manufacturing,84-2525206,371 Rail Yard Dr,Cincinnati,OH,43566,371 Rail Yard Dr,Cincinnati,OH,43566,973-555-0771,ap@meridian.com,Prepay,75000.0,Good,1,Dayton,,2013-11-18
+C-2006,Trailside Pump & Supply,84-1054447,115 Harbor Ln,South Bend,IN,44780,115 Harbor Ln,South Bend,IN,44780,(712) 555-2927,ap@trailside.com,NET45,75000.0,Hold,1,FortWayne,,2019-01-04
+C-2007,Liberty Valve & Controls,84-2321324,60 Rail Yard Dr,Columbus,OH,46596,60 Rail Yard Dr,Columbus,OH,46596,3315550675,ap@liberty.com,NET45,30000.0,Good,1,Dayton,,2023-12-07
+C-2008,Quarryton Valve & Controls,84-9683481,688 Mill Creek Rd,Cincinnati,OH,44529,688 Mill Creek Rd,Cincinnati,OH,44529,(453) 555-3681,ap@quarryton.com,NET30,15000.0,Good,0,Dayton,,2017-02-17
+C-2009,Horizon Pump & Supply,84-8930103,220 Power Row,Cleveland,OH,43541,220 Power Row,Cleveland,OH,43541,296.555.1588,ap@horizon.com,Prepay,10000.0,Review,1,Toledo,,2017-02-08
+C-2010,Northgate Electrical Distributors,84-5191056,144 Riverside Dr,Cleveland,OH,43751,144 Riverside Dr,Cleveland,OH,43751,277-555-7260,ap@northgate.com,NET45,20000.0,Good,1,Toledo,,2014-07-01
+C-2011,Cedar Point Pump & Supply,84-9164991,293 Riverside Dr,Cleveland,OH,45853,293 Riverside Dr,Cleveland,OH,45853,358-555-3111,ap@cedarpoint.com,NET30,10000.0,Good,1,Toledo,,2020-02-28
+C-2012,Pioneer Machine Works,84-5130808,692 Gearhouse Ln,Toledo,OH,43963,692 Gearhouse Ln,Toledo,OH,43963,629.555.9562,ap@pioneer.com,NET45,40000.0,Good,1,Toledo,,2017-02-01
+C-2013,Ashworth Bearing & Supply,84-6855396,551 Rail Yard Dr,Toledo,OH,45072,551 Rail Yard Dr,Toledo,OH,45072,361.555.7179,ap@ashworth.com,NET30,75000.0,Good,1,Toledo,,2013-02-24
+C-2014,Glendale Tool & Die,84-4415796,289 Factory Loop,Lima,OH,43862,289 Factory Loop,Lima,OH,43862,2945550649,ap@glendale.com,NET30,10000.0,Good,1,Dayton,,2019-09-23
+C-2015,Brighton Industrial Supply,84-1604451,78 Siding Ct,Toledo,OH,45830,78 Siding Ct,Toledo,OH,45830,640.555.2088,ap@brighton.com,NET30,40000.0,Good,1,Toledo,,2018-10-24
+C-2016,Union Conveyor Systems,84-1415846,820 Freight Way,Fort Wayne,IN,43725,820 Freight Way,Fort Wayne,IN,43725,9185550110,ap@union.com,Prepay,25000.0,Hold,1,FortWayne,,2015-04-01
+C-2017,Norwood Electrical Distributors,,337 Harbor Ln,Cincinnati,OH,46540,337 Harbor Ln,Cincinnati,OH,46540,991-555-4573,ap@norwood.com,NET15,20000.0,Review,0,Dayton,,2017-12-26
+C-2018,Paragon Manufacturing,84-1744682,395 Siding Ct,Toledo,OH,45361,395 Siding Ct,Toledo,OH,45361,925-555-7144,ap@paragon.com,NET15,40000.0,Good,1,Toledo,,2022-07-11
+C-2019,Maple Grove Valve & Controls,84-3919694,197 Riverside Dr,Fort Wayne,IN,45723,197 Riverside Dr,Fort Wayne,IN,45723,(508) 555-6653,ap@maplegrove.com,NET15,60000.0,Good,1,FortWayne,,2023-03-22
+C-2020,Ironside Valve & Controls,84-6207974,96 Gearhouse Ln,South Bend,,46899,96 Gearhouse Ln,South Bend,,46899,430-555-3262,ap@ironside.com,NET45,50000.0,Good,1,FortWayne,,2013-07-08
+C-2021,Pioneer Rail & Freight,84-8658158,571 Rail Yard Dr,Dayton,OH,46757,571 Rail Yard Dr,Dayton,OH,46757,5245550972,ap@pioneer.com,Prepay,75000.0,Good,1,Dayton,,2015-11-09
+C-2022,Underhill Power Transmission,84-4934149,282 Dock St,Columbus,OH,43317,282 Dock St,Columbus,OH,43317,3545550236,ap@underhill.com,NET45,15000.0,Good,1,Dayton,,2018-07-25
+C-2023,Ingleside Industrial Supply,84-7542890,489 Industrial Pkwy,Cincinnati,OH,46861,489 Industrial Pkwy,Cincinnati,OH,46861,817.555.3613,ap@ingleside.com,NET30,50000.0,Good,1,Dayton,,2019-03-20
+C-2024,Fenwick Industrial Supply,,607 Factory Loop,Cincinnati,OH,45715,607 Factory Loop,Cincinnati,OH,45715,386.555.0823,ap@fenwick.com,NET15,40000.0,Good,1,Dayton,,2016-02-16
+C-2025,Riverside Fabrication Co,84-1675419,230 Mill Creek Rd,South Bend,IN,43281,230 Mill Creek Rd,South Bend,IN,43281,4445550129,ap@riverside.com,NET45,60000.0,Good,1,FortWayne,,2023-12-04
+C-2026,Underhill Hydraulics,84-7296605,111 Factory Loop,Lima,OH,43105,111 Factory Loop,Lima,OH,43105,907.555.3978,ap@underhill.com,NET30,10000.0,Good,1,Dayton,,2017-01-28
+C-2027,Prairie Power Transmission,84-8713146,444 Machine Ave,Toledo,OH,45603,444 Machine Ave,Toledo,OH,45603,8665550276,ap@prairie.com,NET15,40000.0,Good,1,Toledo,,2015-08-19
+C-2028,Kingsbridge Equipment Co,84-9179730,30 Dock St,South Bend,IN,46485,30 Dock St,South Bend,IN,46485,486.555.9767,ap@kingsbridge.com,NET45,15000.0,Good,1,FortWayne,,2019-11-23
+C-2029,Clearview Rail & Freight,84-5081983,96 Harbor Ln,Dayton,OH,43907,96 Harbor Ln,Dayton,OH,43907,766.555.8698,ap@clearview.com,Prepay,30000.0,Good,1,Dayton,,2023-09-25
+C-2030,Plainview Hydraulics,84-9801946,222 Depot St,Columbus,OH,44983,222 Depot St,Columbus,OH,44983,503.555.3727,,NET45,30000.0,Good,1,Dayton,,2022-08-04
+C-2031,Hilltop Valve & Controls,84-1861958,491 Dock St,Cleveland,OH,44395,491 Dock St,Cleveland,OH,44395,458-555-7827,ap@hilltop.com,NET15,15000.0,Good,1,Toledo,,2021-04-25
+C-2032,Elmhurst Equipment Co,84-8194570,931 Dock St,Cleveland,OH,44217,931 Dock St,Cleveland,OH,44217,(835) 555-0986,ap@elmhurst.com,NET30,20000.0,Good,1,Toledo,,2023-10-16
+C-2033,Timberline Fabrication Co,84-8617381,296 Depot St,Columbus,OH,44158,296 Depot St,Columbus,OH,44158,(470) 555-9663,ap@timberline.com,NET15,20000.0,Good,1,Dayton,,2021-05-15
+C-2034,Cornerstone Rail & Freight,84-9284509,717 Riverside Dr,Lima,OH,46861,717 Riverside Dr,Lima,OH,46861,648-555-1317,,NET30,30000.0,Good,1,Dayton,,2019-05-06
+C-2035,Ingleside Manufacturing,84-6591986,993 Commerce St,Cleveland,OH,44925,993 Commerce St,Cleveland,OH,44925,4955550678,ap@ingleside.com,NET30,60000.0,Good,1,Toledo,,2020-01-22
+C-2036,Fenwick Rail & Freight,84-9363326,56 Rail Yard Dr,Cincinnati,OH,45123,56 Rail Yard Dr,Cincinnati,OH,45123,408.555.4375,ap@fenwick.com,Prepay,15000.0,Good,1,Dayton,,2016-09-01
+C-2037,Glendale Manufacturing,84-2970754,231 Gearhouse Ln,Toledo,OH,46739,231 Gearhouse Ln,Toledo,OH,46739,6255550854,ap@glendale.com,NET45,60000.0,Good,1,Toledo,,2014-02-09
+C-2038,Underhill Manufacturing,84-1043037,957 Freight Way,South Bend,IN,45079,957 Freight Way,South Bend,IN,45079,3525550457,ap@underhill.com,Prepay,60000.0,Hold,1,FortWayne,,2018-04-28
+C-2039,Underhill Manufacturing,84-7395997,326 Depot St,Dayton,OH,44937,326 Depot St,Dayton,OH,44937,595-555-2492,ap@underhill.com,Prepay,15000.0,Good,1,Dayton,,2022-03-03
+C-2040,Bellwood Pump & Supply,84-6512415,639 Depot St,South Bend,IN,44628,639 Depot St,South Bend,IN,44628,890-555-8742,ap@bellwood.com,NET15,25000.0,Good,1,FortWayne,,2013-08-06
+C-2041,Plainview Valve & Controls,,48 Machine Ave,Dayton,OH,46261,48 Machine Ave,Dayton,OH,46261,(641) 555-2385,ap@plainview.com,NET30,50000.0,Good,1,Dayton,,2019-11-09
+C-2042,Ashworth Pump & Supply,84-3650391,921 Freight Way,Dayton,OH,44905,921 Freight Way,Dayton,OH,44905,9065550256,ap@ashworth.com,NET45,50000.0,Good,1,Dayton,,2016-12-10
+C-2043,Riverside Equipment Co,84-1822825,9 Factory Loop,Lima,OH,46543,9 Factory Loop,Lima,OH,46543,(493) 555-3770,ap@riverside.com,NET45,15000.0,Good,1,Dayton,,2021-06-24
+C-2044,Harbor Machine Works,84-3217273,335 Depot St,Lima,OH,44701,335 Depot St,Lima,OH,44701,4635550935,ap@harbor.com,NET15,40000.0,Good,0,Dayton,,2015-11-24
+C-2045,Oakmont Equipment Co,,93 Freight Way,South Bend,IN,44616,93 Freight Way,South Bend,IN,44616,888.555.4295,ap@oakmont.com,NET45,60000.0,Hold,1,FortWayne,,2015-11-03
+C-2046,Lockwood Rail & Freight,84-1624315,665 Riverside Dr,Lima,OH,43477,665 Riverside Dr,Lima,OH,43477,3385550397,ap@lockwood.com,Prepay,20000.0,Good,1,Dayton,,2016-01-23
+C-2047,Liberty Electrical Distributors,84-7162857,456 Rail Yard Dr,Cleveland,OH,46503,456 Rail Yard Dr,Cleveland,OH,46503,3255550971,,NET45,10000.0,Good,1,Toledo,,2015-02-27
+C-2048,Trailside Electrical Distributors,84-3475548,833 Gearhouse Ln,Columbus,OH,43954,833 Gearhouse Ln,Columbus,OH,43954,(483) 555-2370,ap@trailside.com,NET30,-20000.0,Good,1,Dayton,,2014-05-02
+C-2049,Harbor Manufacturing,84-7074006,764 Commerce St,Toledo,OH,44950,764 Commerce St,Toledo,OH,44950,715.555.3629,ap@harbor.com,NET30,10000.0,Good,1,Toledo,,2023-08-03
+C-2050,Ironside Fasteners Inc,84-6455706,68 Foundry Rd,Fort Wayne,IN,44126,68 Foundry Rd,Fort Wayne,IN,44126,590-555-9787,ap@ironside.com,NET30,75000.0,Good,1,FortWayne,,2017-08-13
+C-2051,Prairie Bearing & Supply,84-3560856,438 Machine Ave,South Bend,IN,45724,438 Machine Ave,South Bend,IN,45724,287.555.1527,ap@prairie.com,NET30,75000.0,Good,1,FortWayne,,2018-12-02
+C-2052,Timberline Valve & Controls,84-9089795,107 Factory Loop,South Bend,IN,45078,107 Factory Loop,South Bend,IN,45078,(558) 555-9113,ap@timberline.com,NET30,30000.0,Good,1,FortWayne,,2017-01-06
+C-2053,Union Equipment Co,84-2539438,146 Depot St,Toledo,OH,45593,146 Depot St,Toledo,OH,45593,629.555.7432,ap@union.com,NET15,15000.0,Good,1,Toledo,,2013-05-15
+C-2054,Norwood Manufacturing,84-9595744,622 Dock St,Cleveland,OH,44696,622 Dock St,Cleveland,OH,44696,490.555.9717,,Prepay,-10000.0,Good,1,Toledo,,2016-05-11
+C-2055,Cornerstone Industrial Supply,84-9935249,765 Riverside Dr,Cleveland,OH,43719,765 Riverside Dr,Cleveland,OH,43719,920-555-3770,ap@cornerstone.com,Prepay,15000.0,Good,1,Toledo,,2018-05-04
+C-2056,Maple Grove Industrial Supply,84-7070880,176 Freight Way,South Bend,IN,46881,176 Freight Way,South Bend,IN,46881,290-555-7155,ap@maplegrove.com,NET15,40000.0,Good,0,FortWayne,,2020-09-07
+C-2057,Underhill Metal Products,84-4963933,745 Gearhouse Ln,South Bend,IN,45643,745 Gearhouse Ln,South Bend,IN,45643,305-555-2399,ap@underhill.com,Prepay,60000.0,Good,1,FortWayne,,2021-11-21
+C-2058,Kingsbridge Fasteners Inc,84-6080483,155 Dock St,South Bend,IN,43279,155 Dock St,South Bend,IN,43279,5175550472,,NET15,30000.0,Hold,1,FortWayne,,2020-07-15
+C-2059,Ingleside Fabrication Co,84-6394323,931 Freight Way,Cleveland,OH,45341,931 Freight Way,Cleveland,OH,45341,263.555.7381,ap@ingleside.com,NET30,75000.0,Good,1,Toledo,,2020-09-20
+C-2060,Granite Metal Products,84-6676858,940 Harbor Ln,South Bend,IN,44586,940 Harbor Ln,South Bend,IN,44586,2965550571,ap@granite.com,NET45,40000.0,Good,1,FortWayne,,2022-12-22
+C-2061,Maple Grove Tool & Die,84-6510922,318 Power Row,Toledo,OH,44542,318 Power Row,Toledo,OH,44542,720.555.5928,ap@maplegrove.com,NET45,40000.0,Good,1,Toledo,,2013-05-28
+C-2062,Frontier Fabrication Co,84-7320310,898 Freight Way,South Bend,IN,45531,898 Freight Way,South Bend,IN,45531,938.555.7170,ap@frontier.com,NET45,60000.0,Good,1,FortWayne,,2015-05-26
+C-2063,Bellwood Electrical Distributors,84-5727345,695 Factory Loop,South Bend,IN,44804,695 Factory Loop,South Bend,IN,44804,(714) 555-8641,ap@bellwood.com,NET30,60000.0,Good,1,FortWayne,,2013-05-03
+C-2064,Trailside Hydraulics,84-8339571,461 Siding Ct,Lima,OH,45102,461 Siding Ct,Lima,OH,45102,227.555.6797,ap@trailside.com,NET30,40000.0,Good,1,Dayton,,2017-03-05
+C-2065,Keystone Valve & Controls,84-8870361,713 Gearhouse Ln,Cleveland,OH,43568,713 Gearhouse Ln,Cleveland,OH,43568,3535550561,ap@keystone.com,NET15,25000.0,Good,1,Toledo,,2019-02-04
+C-2066,Clearview Industrial Supply,84-6919270,736 Foundry Rd,Columbus,OH,44193,736 Foundry Rd,Columbus,OH,44193,880.555.1402,,NET30,50000.0,Good,1,Dayton,,2023-01-12
+C-2067,Crescent Metal Products,84-6578736,751 Mill Creek Rd,Columbus,OH,45573,751 Mill Creek Rd,Columbus,OH,45573,9975550701,ap@crescent.com,Prepay,20000.0,Good,1,Dayton,,2016-04-02
+C-2068,Northgate Fabrication Co,84-8942330,956 Harbor Ln,South Bend,IN,45111,956 Harbor Ln,South Bend,IN,45111,492.555.5848,ap@northgate.com,NET15,50000.0,Good,1,FortWayne,,2014-08-23
+C-2069,Clearview Metal Products,84-8224389,821 Commerce St,Lima,OH,45978,821 Commerce St,Lima,OH,45978,528.555.1680,ap@clearview.com,Prepay,20000.0,Good,0,Dayton,,2017-10-14
+C-2070,Sterling Fabrication Co,84-3684131,688 Mill Creek Rd,Toledo,OH,44663,688 Mill Creek Rd,Toledo,OH,44663,235.555.2068,ap@sterling.com,NET30,20000.0,Hold,1,Toledo,,2021-03-17
+C-2071,Liberty Equipment Co,84-1434753,666 Harbor Ln,South Bend,IN,44022,666 Harbor Ln,South Bend,IN,44022,596.555.9202,ap@liberty.com,NET45,30000.0,Review,1,FortWayne,,2013-08-06
+C-2072,Quarryton Rail & Freight,84-6361793,830 Mill Creek Rd,Toledo,OH,46963,830 Mill Creek Rd,Toledo,OH,46963,763.555.8882,ap@quarryton.com,NET45,40000.0,Good,1,Toledo,,2019-01-12
+C-2073,Glendale Metal Products,84-2446455,823 Power Row,Cleveland,OH,43531,823 Power Row,Cleveland,OH,43531,267-555-5067,ap@glendale.com,NET15,15000.0,Good,1,Toledo,,2020-11-19
+C-2074,Pioneer Tool & Die,,515 Siding Ct,Cincinnati,OH,46556,515 Siding Ct,Cincinnati,OH,46556,(356) 555-4982,ap@pioneer.com,NET15,15000.0,Good,1,Dayton,,2016-10-18
+C-2075,Ironside Hydraulics,84-6664316,176 Mill Creek Rd,Fort Wayne,IN,45557,176 Mill Creek Rd,Fort Wayne,IN,45557,(229) 555-1330,ap@ironside.com,Prepay,10000.0,Good,1,FortWayne,,2019-04-26
+C-2076,Oakmont Equipment Co,,465 Commerce St,Lima,OH,45820,465 Commerce St,Lima,OH,45820,408.555.5573,ap@oakmont.com,NET15,40000.0,Good,1,Dayton,,2017-04-15
+C-2077,Cornerstone Pump & Supply,,254 Foundry Rd,Cleveland,OH,43396,254 Foundry Rd,Cleveland,OH,43396,(454) 555-2616,ap@cornerstone.com,Prepay,75000.0,Hold,1,Toledo,,2018-09-15
+C-2078,Horizon Electrical Distributors,84-8895137,50 Industrial Pkwy,South Bend,IN,44152,50 Industrial Pkwy,South Bend,IN,44152,641.555.2194,ap@horizon.com,NET15,10000.0,Good,1,FortWayne,,2013-07-17
+C-2079,Fairview Pump & Supply,84-6688907,132 Commerce St,Toledo,OH,44613,132 Commerce St,Toledo,OH,44613,771-555-5990,,NET45,40000.0,Good,1,Toledo,,2014-06-20
+C-2080,Paragon Hydraulics,84-6643410,632 Depot St,Cincinnati,OH,46451,632 Depot St,Cincinnati,OH,46451,719-555-8351,ap@paragon.com,NET30,50000.0,Good,1,Dayton,,2012-10-16
+C-2081,Meridian Conveyor Systems,84-7378535,598 Dock St,Dayton,OH,43698,598 Dock St,Dayton,OH,43698,3955550019,ap@meridian.com,NET45,50000.0,Good,1,Dayton,,2023-12-02
+C-2082,Quarryton Tool & Die,84-7322070,575 Machine Ave,Columbus,OH,45712,575 Machine Ave,Columbus,OH,45712,550.555.8950,ap@quarryton.com,NET45,25000.0,Good,1,Dayton,,2016-12-07
+C-2083,Plainview Power Transmission,84-5587856,492 Machine Ave,South Bend,IN,45295,492 Machine Ave,South Bend,IN,45295,(787) 555-8899,ap@plainview.com,NET15,15000.0,Good,1,FortWayne,,2015-09-09
+C-2084,Glendale Pump & Supply,84-5067770,112 Factory Loop,Fort Wayne,IN,46034,112 Factory Loop,Fort Wayne,IN,46034,6235550338,ap@glendale.com,NET45,10000.0,Review,1,FortWayne,,2019-08-21
+C-2085,Northgate Valve & Controls,84-2500901,293 Mill Creek Rd,South Bend,IN,43242,293 Mill Creek Rd,South Bend,IN,43242,(437) 555-8767,ap@northgate.com,NET30,50000.0,Good,1,FortWayne,,2016-01-01
+C-2086,Anchor Bearing & Supply,84-9286475,292 Dock St,South Bend,IN,45626,292 Dock St,South Bend,IN,45626,5385550166,ap@anchor.com,NET45,10000.0,Good,1,FortWayne,,2014-10-28
+C-2087,Lockwood Equipment Co,84-2600296,528 Machine Ave,Cincinnati,OH,43355,528 Machine Ave,Cincinnati,OH,43355,(688) 555-5301,ap@lockwood.com,NET15,40000.0,Good,0,Dayton,,2023-04-02
+C-2088,Norwood Bearing & Supply,84-6217344,315 Foundry Rd,Cleveland,OH,44660,315 Foundry Rd,Cleveland,OH,44660,(854) 555-4833,ap@norwood.com,Prepay,40000.0,Good,1,Toledo,,2022-04-25
+C-2089,Horizon Machine Works,,541 Depot St,Cleveland,OH,44481,541 Depot St,Cleveland,OH,44481,(263) 555-8972,ap@horizon.com,Prepay,15000.0,Good,1,Toledo,,2019-01-15
+C-2090,Harbor Manufacturing,84-6170227,578 Industrial Pkwy,Cleveland,OH,45288,578 Industrial Pkwy,Cleveland,OH,45288,940-555-0356,ap@harbor.com,NET30,75000.0,Hold,0,Toledo,,2012-05-14
+C-2091,Pioneer Tool & Die,84-7333337,384 Siding Ct,Cincinnati,OH,44566,384 Siding Ct,Cincinnati,OH,44566,3215550182,ap@pioneer.com,NET45,10000.0,Review,1,Dayton,,2018-09-13
+C-2092,Delta Conveyor Systems,84-2893218,355 Foundry Rd,Cleveland,OH,44129,355 Foundry Rd,Cleveland,OH,44129,232-555-6868,ap@delta.com,NET30,25000.0,Good,1,Toledo,,2012-03-17
+C-2093,Timberline Conveyor Systems,84-6379867,592 Factory Loop,South Bend,IN,46164,592 Factory Loop,South Bend,IN,46164,442-555-4944,ap@timberline.com,NET45,50000.0,Good,1,FortWayne,,2018-09-11
+C-2094,Plainview Manufacturing,84-8944327,153 Harbor Ln,Cincinnati,OH,44541,153 Harbor Ln,Cincinnati,OH,44541,7755550422,ap@plainview.com,NET45,50000.0,Good,1,Dayton,,2017-02-18
+C-2095,Ridgeline Electrical Distributors,84-1663497,275 Riverside Dr,Dayton,OH,45759,275 Riverside Dr,Dayton,OH,45759,(979) 555-9626,ap@ridgeline.com,NET15,30000.0,Good,1,Dayton,,2013-12-25
+C-2096,Bellwood Conveyor Systems,84-5748945,407 Siding Ct,Columbus,OH,43980,407 Siding Ct,Columbus,OH,43980,5685550525,ap@bellwood.com,Prepay,40000.0,Good,1,Dayton,,2015-12-05
+C-2097,Riverside Pump & Supply,84-7372653,303 Foundry Rd,Cincinnati,OH,43803,303 Foundry Rd,Cincinnati,OH,43803,4635550781,ap@riverside.com,Prepay,60000.0,Good,1,Dayton,,2019-03-18
+C-2098,Montrose Fabrication Co,84-1813936,860 Gearhouse Ln,Dayton,OH,43304,860 Gearhouse Ln,Dayton,OH,43304,(622) 555-2252,,Prepay,40000.0,Good,1,Dayton,,2022-08-01
+C-2099,Hilltop Manufacturing,84-5809835,18 Power Row,Dayton,OH,45958,18 Power Row,Dayton,OH,45958,(914) 555-7054,ap@hilltop.com,NET15,40000.0,Good,1,Dayton,,2021-04-23
+C-2100,Delta Valve & Controls,84-2568678,670 Gearhouse Ln,Toledo,OH,45661,670 Gearhouse Ln,Toledo,OH,45661,(586) 555-9055,,Prepay,40000.0,Hold,1,Toledo,,2012-04-07
+C-2101,Plainview Power Transmission,84-5703878,48 Siding Ct,Lima,OH,43304,48 Siding Ct,Lima,OH,43304,(873) 555-0539,ap@plainview.com,Prepay,15000.0,Good,1,Dayton,,2022-09-11
+C-2102,Cedar Point Tool & Die,84-2638895,513 Depot St,Toledo,OH,46990,513 Depot St,Toledo,OH,46990,819.555.9758,,NET15,60000.0,Good,1,Toledo,,2022-10-22
+C-2103,Cedar Point Machine Works,,818 Rail Yard Dr,Lima,OH,45920,818 Rail Yard Dr,Lima,OH,45920,474-555-2526,,NET15,60000.0,Good,1,Dayton,,2019-09-18
+C-2104,Dunmore Manufacturing,84-6443037,27 Commerce St,Toledo,OH,44449,27 Commerce St,Toledo,OH,44449,(498) 555-6779,ap@dunmore.com,NET45,50000.0,Good,1,Toledo,,2014-07-09
+C-2105,Prairie Valve & Controls,84-5137094,802 Commerce St,Cleveland,OH,44479,802 Commerce St,Cleveland,OH,44479,938-555-8123,ap@prairie.com,NET15,50000.0,Good,1,Toledo,,2022-10-05
+C-2106,Anchor Fasteners Inc,84-6354241,491 Machine Ave,Columbus,OH,43727,491 Machine Ave,Columbus,OH,43727,4875550836,ap@anchor.com,NET45,75000.0,Good,0,Dayton,,2023-04-15
+C-2107,Timberline Machine Works,84-5060441,690 Dock St,Cincinnati,OH,43570,690 Dock St,Cincinnati,OH,43570,6595550612,ap@timberline.com,Prepay,75000.0,Review,1,Dayton,,2021-11-03
+C-2108,Frontier Conveyor Systems,,171 Mill Creek Rd,South Bend,IN,45509,171 Mill Creek Rd,South Bend,IN,45509,640.555.1735,ap@frontier.com,NET45,60000.0,Good,1,FortWayne,,2014-06-01
+C-2109,Bellwood Bearing & Supply,84-3376915,426 Siding Ct,Lima,,46939,426 Siding Ct,Lima,,46939,6945550356,,Prepay,40000.0,Good,1,Dayton,,2017-11-04
+C-2110,Oakmont Hydraulics,84-8153291,529 Foundry Rd,Columbus,OH,45260,529 Foundry Rd,Columbus,OH,45260,(614) 555-3022,ap@oakmont.com,Prepay,-50000.0,Good,1,Dayton,,2013-10-04
+C-2111,Fenwick Hydraulics,84-9212178,334 Rail Yard Dr,South Bend,IN,44874,334 Rail Yard Dr,South Bend,IN,44874,825.555.6431,ap@fenwick.com,Prepay,20000.0,Good,1,FortWayne,,2013-11-05
+C-2112,Paragon Bearing & Supply,84-3371602,313 Commerce St,Columbus,OH,43749,313 Commerce St,Columbus,OH,43749,(628) 555-9771,ap@paragon.com,NET45,75000.0,Good,1,Dayton,,2021-01-28
+C-2113,Eastgate Industrial Supply,84-9479842,140 Rail Yard Dr,Cleveland,OH,46339,140 Rail Yard Dr,Cleveland,OH,46339,868-555-8109,ap@eastgate.com,NET45,30000.0,Good,1,Toledo,,2021-12-25
+C-2114,Underhill Power Transmission,84-7154919,587 Commerce St,Toledo,OH,44097,587 Commerce St,Toledo,OH,44097,(978) 555-7231,ap@underhill.com,NET30,60000.0,Hold,1,Toledo,,2013-04-07
+C-2115,Shoreline Metal Products,84-4471922,170 Factory Loop,Cincinnati,OH,43570,170 Factory Loop,Cincinnati,OH,43570,487.555.9778,ap@shoreline.com,NET15,30000.0,Review,1,Dayton,,2013-03-25
+C-2116,Prairie Fabrication Co,84-3226183,888 Mill Creek Rd,Lima,OH,43519,888 Mill Creek Rd,Lima,OH,43519,453.555.6434,ap@prairie.com,Prepay,60000.0,Good,1,Dayton,,2023-05-23
+C-2117,Liberty Rail & Freight,84-2562657,336 Factory Loop,Cleveland,OH,43010,336 Factory Loop,Cleveland,OH,43010,6075550223,ap@liberty.com,Prepay,30000.0,Good,1,Toledo,,2019-06-22
+C-2118,Trailside Fabrication Co,84-1273155,102 Mill Creek Rd,Dayton,OH,46210,102 Mill Creek Rd,Dayton,OH,46210,(651) 555-7479,ap@trailside.com,NET15,20000.0,Hold,1,Dayton,,2013-06-22
+C-2119,Montrose Hydraulics,84-4928281,406 Mill Creek Rd,Dayton,OH,44251,406 Mill Creek Rd,Dayton,OH,44251,(920) 555-1559,ap@montrose.com,Prepay,-10000.0,Good,1,Dayton,,2023-03-16
+C-2120,Crescent Conveyor Systems,84-6257165,92 Depot St,Cincinnati,OH,46301,92 Depot St,Cincinnati,OH,46301,(340) 555-6270,,NET30,20000.0,Good,1,Dayton,,2018-10-22
+C-2121,Fairview Electrical Distributors,84-7442986,919 Commerce St,Toledo,OH,43573,919 Commerce St,Toledo,OH,43573,(522) 555-2290,ap@fairview.com,NET15,10000.0,Good,1,Toledo,,2020-04-24
+C-2122,Maple Grove Valve & Controls,84-9302838,803 Siding Ct,Dayton,OH,46251,803 Siding Ct,Dayton,OH,46251,595-555-1847,ap@maplegrove.com,NET15,20000.0,Good,1,Dayton,,2014-08-25
+C-2123,Crescent Industrial Supply,,15 Harbor Ln,Toledo,OH,43883,15 Harbor Ln,Toledo,OH,43883,9855550425,ap@crescent.com,NET30,75000.0,Good,1,Toledo,,2015-03-18
+C-2124,Paragon Equipment Co,84-5003671,318 Depot St,Toledo,OH,44791,318 Depot St,Toledo,OH,44791,259-555-4005,ap@paragon.com,NET45,-15000.0,Good,0,Toledo,,2017-09-17
+C-2125,Ridgeline Pump & Supply,84-5509119,381 Foundry Rd,Fort Wayne,IN,46071,381 Foundry Rd,Fort Wayne,IN,46071,950-555-1934,ap@ridgeline.com,NET30,60000.0,Good,1,FortWayne,,2017-03-09
+C-2126,Underhill Bearing & Supply,,234 Depot St,Toledo,OH,45084,234 Depot St,Toledo,OH,45084,212-555-4006,ap@underhill.com,Prepay,25000.0,Good,1,Toledo,,2013-10-12
+C-2127,Cornerstone Fabrication Co,84-7726402,229 Freight Way,Fort Wayne,IN,45112,229 Freight Way,Fort Wayne,IN,45112,270-555-7620,ap@cornerstone.com,NET15,30000.0,Good,1,FortWayne,,2015-12-18
+C-2128,Trailside Conveyor Systems,,7 Siding Ct,Fort Wayne,IN,44679,7 Siding Ct,Fort Wayne,IN,44679,9775550673,ap@trailside.com,NET15,15000.0,Review,1,FortWayne,,2014-12-09
+C-2129,Ironside Fabrication Co,84-7249378,919 Gearhouse Ln,Columbus,OH,45128,919 Gearhouse Ln,Columbus,OH,45128,8525550839,,NET30,50000.0,Good,1,Dayton,,2018-12-27
+C-2130,Shoreline Fasteners Inc,,464 Harbor Ln,South Bend,IN,43956,464 Harbor Ln,South Bend,IN,43956,3085550168,ap@shoreline.com,Prepay,15000.0,Review,1,FortWayne,,2016-02-03
+C-2131,Granite Valve & Controls,84-2530298,221 Gearhouse Ln,Dayton,OH,46508,221 Gearhouse Ln,Dayton,OH,46508,725.555.0802,ap@granite.com,NET45,10000.0,Hold,1,Dayton,,2013-08-04
+C-2132,Harbor Bearing & Supply,84-3193037,64 Gearhouse Ln,Dayton,OH,46198,64 Gearhouse Ln,Dayton,OH,46198,402-555-6563,,NET30,25000.0,Good,1,Dayton,,2017-02-02
+C-2133,Ashworth Fabrication Co,84-7626978,947 Factory Loop,Fort Wayne,IN,44774,947 Factory Loop,Fort Wayne,IN,44774,(591) 555-6990,ap@ashworth.com,Prepay,20000.0,Good,1,FortWayne,,2018-09-16
+C-2134,Vanguard Machine Works,84-9821696,393 Foundry Rd,Lima,,44717,393 Foundry Rd,Lima,,44717,6915550557,ap@vanguard.com,NET15,50000.0,Good,1,Dayton,,2016-01-26
+C-2135,Bellwood Metal Products,84-5045872,998 Foundry Rd,Columbus,OH,43410,998 Foundry Rd,Columbus,OH,43410,7895550866,ap@bellwood.com,NET45,20000.0,Good,1,Dayton,,2021-01-23
+C-2136,Plainview Metal Products,84-9258194,577 Rail Yard Dr,Fort Wayne,IN,46427,577 Rail Yard Dr,Fort Wayne,IN,46427,(379) 555-8035,,Prepay,10000.0,Good,1,FortWayne,,2014-06-02
+C-2137,Riverside Tool & Die,84-7121835,793 Commerce St,Fort Wayne,IN,46467,793 Commerce St,Fort Wayne,IN,46467,800.555.1655,ap@riverside.com,NET45,50000.0,Review,1,FortWayne,,2020-12-20
+C-2138,Eastgate Conveyor Systems,84-3136551,388 Harbor Ln,Fort Wayne,IN,46006,388 Harbor Ln,Fort Wayne,IN,46006,600.555.9297,ap@eastgate.com,NET45,15000.0,Good,1,FortWayne,,2017-03-21
+C-2139,Ironside Fasteners Inc,84-2137407,12 Harbor Ln,Cleveland,OH,43858,12 Harbor Ln,Cleveland,OH,43858,6485550750,ap@ironside.com,Prepay,60000.0,Good,1,Toledo,,2021-11-25
+C-2140,Oakmont Conveyor Systems,84-5947745,463 Commerce St,Fort Wayne,IN,46273,463 Commerce St,Fort Wayne,IN,46273,3745550909,ap@oakmont.com,NET30,75000.0,Review,1,FortWayne,,2019-12-01
+C-2141,Brighton Hydraulics,84-4187406,161 Industrial Pkwy,Cincinnati,OH,43414,161 Industrial Pkwy,Cincinnati,OH,43414,619-555-9078,,Prepay,20000.0,Good,1,Dayton,,2022-10-16
+C-2142,Northgate Bearing & Supply,84-2374659,212 Foundry Rd,Dayton,OH,45614,212 Foundry Rd,Dayton,OH,45614,684-555-1892,ap@northgate.com,Prepay,20000.0,Good,1,Dayton,,2019-08-09
+C-2143,Delta Pump & Supply,84-2437930,155 Freight Way,Dayton,OH,45852,155 Freight Way,Dayton,OH,45852,884-555-5632,ap@delta.com,Prepay,75000.0,Hold,1,Dayton,,2016-02-13
+C-2144,Quarryton Fabrication Co,84-3804559,124 Freight Way,Fort Wayne,IN,44839,124 Freight Way,Fort Wayne,IN,44839,(329) 555-0699,ap@quarryton.com,NET45,30000.0,Good,1,FortWayne,,2020-07-18
+C-2145,Paragon Pump & Supply,84-9767135,940 Gearhouse Ln,Cleveland,OH,43050,940 Gearhouse Ln,Cleveland,OH,43050,629-555-1843,ap@paragon.com,NET30,30000.0,Hold,1,Toledo,,2022-08-19
+C-2146,Jasper Power Transmission,84-7739741,177 Harbor Ln,Dayton,OH,44650,177 Harbor Ln,Dayton,OH,44650,250.555.7785,,NET15,30000.0,Good,1,Dayton,,2015-03-10
+C-2147,Shoreline Rail & Freight,84-2497984,276 Depot St,South Bend,IN,44707,276 Depot St,South Bend,IN,44707,958.555.7937,ap@shoreline.com,NET45,15000.0,Good,1,FortWayne,,2021-01-06
+C-2148,Northgate Electrical Distributors,,256 Industrial Pkwy,Dayton,OH,44869,256 Industrial Pkwy,Dayton,OH,44869,569-555-3262,ap@northgate.com,NET45,40000.0,Good,1,Dayton,,2020-06-12
+C-2149,Granite Pump & Supply,,292 Industrial Pkwy,Toledo,,44583,292 Industrial Pkwy,Toledo,,44583,4755550667,ap@granite.com,NET30,60000.0,Good,1,Toledo,,2016-10-26
+C-2150,Anchor Pump & Supply,84-5227836,917 Riverside Dr,Cincinnati,OH,46488,917 Riverside Dr,Cincinnati,OH,46488,423-555-7646,ap@anchor.com,NET15,75000.0,Good,1,Dayton,,2013-06-09
+C-2151,Lockwood Fasteners Inc,84-6012883,268 Mill Creek Rd,Lima,OH,45912,268 Mill Creek Rd,Lima,OH,45912,258.555.9830,ap@lockwood.com,NET30,60000.0,Good,1,Dayton,,2012-10-23
+C-2152,Hartley Electrical Distributors,84-8981512,744 Depot St,South Bend,IN,43910,744 Depot St,South Bend,IN,43910,887-555-5873,ap@hartley.com,NET15,75000.0,Good,1,FortWayne,,2013-04-12
+C-2153,Delta Valve & Controls,84-5933359,808 Siding Ct,Cincinnati,OH,44357,808 Siding Ct,Cincinnati,OH,44357,674-555-1929,ap@delta.com,NET45,75000.0,Good,1,Dayton,,2014-03-07
+C-2154,Westbrook Manufacturing,84-2355791,147 Machine Ave,Cleveland,OH,46532,147 Machine Ave,Cleveland,OH,46532,520.555.0950,ap@westbrook.com,NET45,20000.0,Good,1,Toledo,,2022-07-13
+C-2155,Brighton Power Transmission,84-7259602,5 Industrial Pkwy,Cincinnati,OH,45186,5 Industrial Pkwy,Cincinnati,OH,45186,(975) 555-8700,ap@brighton.com,NET15,30000.0,Good,1,Dayton,,2012-05-10
+C-2156,Ashworth Fasteners Inc,84-9223833,910 Mill Creek Rd,Cincinnati,OH,43548,910 Mill Creek Rd,Cincinnati,OH,43548,(368) 555-6609,ap@ashworth.com,NET30,75000.0,Good,1,Dayton,,2022-05-25
+C-2157,Fenwick Fabrication Co,84-1809249,678 Commerce St,Dayton,OH,45677,678 Commerce St,Dayton,OH,45677,7605550258,ap@fenwick.com,NET45,10000.0,Good,1,Dayton,,2021-12-05
+C-2158,Prairie Bearing & Supply,84-4332737,290 Commerce St,Toledo,OH,46214,290 Commerce St,Toledo,OH,46214,5665550720,ap@prairie.com,NET30,75000.0,Good,1,Toledo,,2012-01-22
+C-2159,Ironside Bearing & Supply,84-2699372,153 Commerce St,Cleveland,OH,46192,153 Commerce St,Cleveland,OH,46192,(667) 555-4850,ap@ironside.com,NET15,40000.0,Good,1,Toledo,,2012-01-28
+C-2160,Harbor Hydraulics,84-5501484,367 Siding Ct,South Bend,IN,44792,367 Siding Ct,South Bend,IN,44792,6105550409,ap@harbor.com,Prepay,60000.0,Good,1,FortWayne,,2023-12-02
+C-2161,Granite Bearing & Supply,84-8351152,934 Factory Loop,Cincinnati,OH,44977,934 Factory Loop,Cincinnati,OH,44977,(997) 555-5875,ap@granite.com,Prepay,15000.0,Good,0,Dayton,,2012-12-28
+C-2162,Oakmont Conveyor Systems,84-2597897,532 Power Row,South Bend,IN,45819,532 Power Row,South Bend,IN,45819,643-555-4072,,NET45,75000.0,Hold,1,FortWayne,,2019-06-08
+C-2163,Westbrook Pump & Supply,84-7765865,520 Rail Yard Dr,Dayton,OH,45254,520 Rail Yard Dr,Dayton,OH,45254,2905550877,ap@westbrook.com,NET30,60000.0,Good,1,Dayton,,2020-01-27
+C-2164,Ironside Valve & Controls,84-7095875,671 Mill Creek Rd,Columbus,OH,44868,671 Mill Creek Rd,Columbus,OH,44868,773.555.9829,ap@ironside.com,NET30,15000.0,Good,1,Dayton,,2016-09-17
+C-2165,Liberty Bearing & Supply,84-7865417,919 Foundry Rd,Dayton,OH,45016,919 Foundry Rd,Dayton,OH,45016,6025550220,ap@liberty.com,NET45,40000.0,Good,1,Dayton,,2021-02-25
+C-2166,Fairview Rail & Freight,84-1814896,987 Dock St,Fort Wayne,IN,43017,987 Dock St,Fort Wayne,IN,43017,(799) 555-7912,ap@fairview.com,NET45,15000.0,Good,1,FortWayne,,2018-07-20
+C-2167,Plainview Conveyor Systems,84-3237608,408 Machine Ave,Lima,OH,46975,408 Machine Ave,Lima,OH,46975,(816) 555-8393,ap@plainview.com,NET15,40000.0,Good,1,Dayton,,2014-09-18
+C-2168,Plainview Fasteners Inc,84-8004117,780 Machine Ave,Toledo,OH,45303,780 Machine Ave,Toledo,OH,45303,3095550025,ap@plainview.com,NET30,25000.0,Good,1,Toledo,,2014-01-23
+C-2169,Timberline Electrical Distributors,84-4763253,368 Gearhouse Ln,Dayton,OH,44853,368 Gearhouse Ln,Dayton,OH,44853,960-555-9195,ap@timberline.com,Prepay,50000.0,Review,1,Dayton,,2012-12-09
+C-2170,Northgate Rail & Freight,84-7169672,934 Mill Creek Rd,Columbus,OH,45886,934 Mill Creek Rd,Columbus,OH,45886,(759) 555-9885,ap@northgate.com,NET30,20000.0,Good,1,Dayton,,2016-09-09
+C-2171,Harbor Hydraulics,84-3597208,6 Machine Ave,Lima,OH,44910,6 Machine Ave,Lima,OH,44910,252.555.4934,,NET15,75000.0,Good,0,Dayton,,2018-09-18
+C-2172,Maple Grove Machine Works,84-6554374,227 Siding Ct,South Bend,IN,43873,227 Siding Ct,South Bend,IN,43873,569-555-4809,ap@maplegrove.com,NET15,60000.0,Good,1,FortWayne,,2012-11-11
+C-2173,Cedar Point Bearing & Supply,84-9671603,263 Power Row,Cincinnati,,45965,263 Power Row,Cincinnati,,45965,(726) 555-8335,ap@cedarpoint.com,NET30,15000.0,Review,1,Dayton,,2013-04-22
+C-2174,Lockwood Electrical Distributors,84-8302077,856 Commerce St,Cincinnati,OH,43842,856 Commerce St,Cincinnati,OH,43842,862-555-1181,,NET30,20000.0,Good,1,Dayton,,2016-07-13
+C-2175,Fairview Equipment Co,84-9973031,324 Industrial Pkwy,Cincinnati,OH,44595,324 Industrial Pkwy,Cincinnati,OH,44595,206-555-1036,ap@fairview.com,NET15,15000.0,Hold,1,Dayton,,2012-08-06
+C-2176,Fenwick Conveyor Systems,84-5948917,765 Riverside Dr,Fort Wayne,IN,46263,765 Riverside Dr,Fort Wayne,IN,46263,849-555-2360,,Prepay,75000.0,Good,1,FortWayne,,2023-06-07
+C-2177,Prairie Tool & Die,84-4260252,189 Rail Yard Dr,Fort Wayne,IN,45526,189 Rail Yard Dr,Fort Wayne,IN,45526,317-555-2971,ap@prairie.com,NET30,30000.0,Good,1,FortWayne,,2014-11-21
+C-2178,Horizon Bearing & Supply,84-9151398,635 Commerce St,Lima,OH,46686,635 Commerce St,Lima,OH,46686,910.555.9571,ap@horizon.com,Prepay,-20000.0,Good,1,Dayton,,2018-05-27
+C-2179,Liberty Tool & Die,84-6124966,899 Dock St,South Bend,IN,44895,899 Dock St,South Bend,IN,44895,861.555.9938,ap@liberty.com,NET45,75000.0,Good,1,FortWayne,,2012-09-21
+C-2180,Riverside Equipment Co,84-8920589,929 Industrial Pkwy,Columbus,OH,45259,929 Industrial Pkwy,Columbus,OH,45259,428.555.9660,ap@riverside.com,NET30,50000.0,Good,1,Dayton,,2021-11-06
+C-2181,Trailside Tool & Die,84-3452813,164 Foundry Rd,Cleveland,OH,45319,164 Foundry Rd,Cleveland,OH,45319,424.555.7989,ap@trailside.com,NET30,25000.0,Good,1,Toledo,,2012-01-21
+C-2182,Paragon Bearing & Supply,84-3916715,855 Depot St,Lima,OH,44078,855 Depot St,Lima,OH,44078,7295550257,ap@paragon.com,NET45,75000.0,Good,1,Dayton,,2021-01-17
+C-2183,Harbor Rail & Freight,84-4548668,236 Commerce St,Fort Wayne,IN,45107,236 Commerce St,Fort Wayne,IN,45107,8765550235,ap@harbor.com,NET30,60000.0,Good,1,FortWayne,,2018-01-08
+C-2184,Keystone Tool & Die,,138 Mill Creek Rd,Fort Wayne,IN,45099,138 Mill Creek Rd,Fort Wayne,IN,45099,7295550981,ap@keystone.com,NET30,30000.0,Good,1,FortWayne,,2019-03-08
+C-2185,Prairie Tool & Die,84-6749069,639 Mill Creek Rd,Fort Wayne,IN,45092,639 Mill Creek Rd,Fort Wayne,IN,45092,664-555-9773,,Prepay,20000.0,Good,1,FortWayne,,2020-09-25
+C-2186,Cornerstone Machine Works,84-1020136,676 Foundry Rd,Cleveland,OH,46694,676 Foundry Rd,Cleveland,OH,46694,9145550542,ap@cornerstone.com,Prepay,50000.0,Good,1,Toledo,,2021-02-14
+C-2187,Harbor Pump & Supply,84-5752426,785 Rail Yard Dr,Cleveland,OH,46727,785 Rail Yard Dr,Cleveland,OH,46727,812-555-8908,ap@harbor.com,NET30,-75000.0,Good,1,Toledo,,2017-02-05
+C-2188,Brighton Pump & Supply,84-5623138,876 Power Row,Lima,OH,44734,876 Power Row,Lima,OH,44734,(973) 555-3337,ap@brighton.com,Prepay,30000.0,Good,1,Dayton,,2014-11-04
+C-2189,Shoreline Conveyor Systems,84-4598010,802 Depot St,Cleveland,OH,46888,802 Depot St,Cleveland,OH,46888,720-555-6562,ap@shoreline.com,NET45,60000.0,Good,0,Toledo,,2013-10-02
+C-2190,Ridgeline Equipment Co,84-1964069,629 Mill Creek Rd,Cincinnati,OH,45134,629 Mill Creek Rd,Cincinnati,OH,45134,649.555.0175,ap@ridgeline.com,NET45,20000.0,Good,1,Dayton,,2013-05-25
+C-2191,Maple Grove Metal Products,84-2151205,416 Factory Loop,Cincinnati,OH,43820,416 Factory Loop,Cincinnati,OH,43820,796.555.5703,ap@maplegrove.com,NET45,60000.0,Good,1,Dayton,,2013-09-03
+C-2192,Dunmore Valve & Controls,84-5323377,970 Commerce St,South Bend,IN,46288,970 Commerce St,South Bend,IN,46288,(456) 555-7254,ap@dunmore.com,Prepay,60000.0,Hold,1,FortWayne,,2018-11-26
+C-2193,Delta Conveyor Systems,84-5418274,423 Machine Ave,South Bend,IN,45115,423 Machine Ave,South Bend,IN,45115,(295) 555-6536,ap@delta.com,NET15,25000.0,Good,1,FortWayne,,2015-08-24
+C-2194,Northgate Conveyor Systems,84-5189194,894 Harbor Ln,Columbus,OH,43846,894 Harbor Ln,Columbus,OH,43846,8925550978,ap@northgate.com,NET30,60000.0,Good,1,Dayton,,2021-05-16
+C-2195,Pioneer Pump & Supply,84-9820377,228 Freight Way,Cincinnati,OH,45362,228 Freight Way,Cincinnati,OH,45362,(753) 555-0533,ap@pioneer.com,NET30,75000.0,Good,0,Dayton,,2021-02-11
+C-2196,Liberty Pump & Supply,84-6756203,562 Harbor Ln,Fort Wayne,IN,43971,562 Harbor Ln,Fort Wayne,IN,43971,415.555.6866,ap@liberty.com,Prepay,30000.0,Good,1,FortWayne,,2013-12-09
+C-2197,Horizon Manufacturing,84-3509000,201 Foundry Rd,Cincinnati,OH,46276,201 Foundry Rd,Cincinnati,OH,46276,711.555.2203,ap@horizon.com,NET15,30000.0,Good,1,Dayton,,2012-04-27
+C-2198,Meridian Power Transmission,84-7044941,461 Depot St,Toledo,OH,44370,461 Depot St,Toledo,OH,44370,(463) 555-5638,ap@meridian.com,NET45,30000.0,Good,1,Toledo,,2013-07-20
+C-2199,Timberline Rail & Freight,84-6660436,890 Foundry Rd,Fort Wayne,IN,45623,890 Foundry Rd,Fort Wayne,IN,45623,281.555.2654,ap@timberline.com,NET15,30000.0,Good,1,FortWayne,,2017-12-19
+C-2200,Elmhurst Rail & Freight,,172 Foundry Rd,Cincinnati,OH,46498,172 Foundry Rd,Cincinnati,OH,46498,4155550170,ap@elmhurst.com,NET30,60000.0,Good,1,Dayton,,2013-02-09
+C-2201,Kingsbridge Tool & Die,84-4847954,671 Siding Ct,Toledo,OH,46626,671 Siding Ct,Toledo,OH,46626,453-555-4655,ap@kingsbridge.com,NET15,60000.0,Hold,1,Toledo,,2014-12-18
+C-2202,Pioneer Rail & Freight,84-6824517,537 Mill Creek Rd,Cincinnati,OH,45619,537 Mill Creek Rd,Cincinnati,OH,45619,652.555.5044,ap@pioneer.com,NET30,10000.0,Good,1,Dayton,,2020-01-23
+C-2203,Clearview Power Transmission,84-4879150,10 Freight Way,Lima,OH,44763,10 Freight Way,Lima,OH,44763,(582) 555-3089,ap@clearview.com,Prepay,50000.0,Good,1,Dayton,,2021-12-22
+C-2204,Sterling Valve & Controls,,423 Rail Yard Dr,Lima,OH,46495,423 Rail Yard Dr,Lima,OH,46495,4785550717,ap@sterling.com,NET30,20000.0,Good,1,Dayton,,2016-03-23
+C-2205,Fairview Industrial Supply,84-6736345,93 Foundry Rd,Columbus,OH,43060,93 Foundry Rd,Columbus,OH,43060,(710) 555-6084,,Prepay,15000.0,Good,1,Dayton,,2018-01-04
+C-2206,Underhill Conveyor Systems,84-1562209,790 Dock St,Cincinnati,OH,44012,790 Dock St,Cincinnati,OH,44012,733.555.3415,ap@underhill.com,NET45,10000.0,Good,1,Dayton,,2016-04-12
+C-2207,Vanguard Electrical Distributors,84-3807840,242 Mill Creek Rd,Toledo,OH,44778,242 Mill Creek Rd,Toledo,OH,44778,2435550595,ap@vanguard.com,NET45,40000.0,Good,1,Toledo,,2017-11-02
+C-2208,Vanguard Metal Products,84-9184645,719 Power Row,Fort Wayne,IN,46241,719 Power Row,Fort Wayne,IN,46241,2215550705,ap@vanguard.com,NET45,30000.0,Good,1,FortWayne,,2023-08-07
+C-2209,Hartley Hydraulics,84-3690116,332 Depot St,South Bend,IN,44918,332 Depot St,South Bend,IN,44918,7545550375,,Prepay,20000.0,Good,1,FortWayne,,2017-12-03
+C-2210,Norwood Equipment Co,84-3585897,537 Mill Creek Rd,Columbus,OH,45037,537 Mill Creek Rd,Columbus,OH,45037,827-555-4638,,NET45,20000.0,Good,1,Dayton,,2021-11-27
+C-2211,Cedar Point Power Transmission,84-2189067,51 Machine Ave,Lima,OH,43904,51 Machine Ave,Lima,OH,43904,281.555.7668,ap@cedarpoint.com,Prepay,40000.0,Good,1,Dayton,,2023-02-27
+C-2212,Anchor Machine Works,84-4875838,984 Power Row,Columbus,OH,43397,984 Power Row,Columbus,OH,43397,(394) 555-3164,ap@anchor.com,Prepay,15000.0,Good,1,Dayton,,2018-02-06
+C-2213,Pioneer Equipment Co,84-8432510,674 Foundry Rd,South Bend,IN,45186,674 Foundry Rd,South Bend,IN,45186,9825550648,ap@pioneer.com,NET15,25000.0,Good,1,FortWayne,,2016-06-15
+C-2214,Fairview Equipment Co,84-9684044,744 Industrial Pkwy,Dayton,OH,44165,744 Industrial Pkwy,Dayton,OH,44165,427.555.3519,ap@fairview.com,NET45,15000.0,Good,1,Dayton,,2021-04-08
+C-2215,Meridian Valve & Controls,84-2295227,585 Riverside Dr,Toledo,OH,45330,585 Riverside Dr,Toledo,OH,45330,699.555.9440,,Prepay,15000.0,Hold,1,Toledo,,2018-07-28
+C-2216,Cornerstone Conveyor Systems,84-6113416,650 Freight Way,Dayton,OH,45589,650 Freight Way,Dayton,OH,45589,(526) 555-8846,ap@cornerstone.com,Prepay,60000.0,Good,1,Dayton,,2018-03-05
+C-2217,Westbrook Machine Works,84-5404991,586 Depot St,Cleveland,OH,43201,586 Depot St,Cleveland,OH,43201,9805550138,ap@westbrook.com,Prepay,50000.0,Good,1,Toledo,,2015-04-03
+C-2218,Sterling Manufacturing,84-7938755,702 Siding Ct,South Bend,IN,45359,702 Siding Ct,South Bend,IN,45359,633-555-5984,ap@sterling.com,NET45,40000.0,Review,1,FortWayne,,2012-04-07
+C-2219,Oakmont Metal Products,84-1914996,776 Depot St,Fort Wayne,IN,46492,776 Depot St,Fort Wayne,IN,46492,5125550460,,NET45,75000.0,Good,1,FortWayne,,2021-12-05
+C-2220,Plainview Industrial Supply,84-5285846,597 Siding Ct,Cincinnati,OH,45717,597 Siding Ct,Cincinnati,OH,45717,374-555-0984,,NET15,40000.0,Good,1,Dayton,,2015-07-17
+C-2221,Kingsbridge Tool and Die,84-4847954,See primary location,,,,See primary location,,,,453-555-4655,ap@kingsbridge.com,NET30,20000.0,Good,1,Toledo,C-2201,2022-01-01
+C-2222,Clearview Rail & Freight,84-5081983,See primary location,,,,See primary location,,,,766.555.8698,ap@clearview.com,NET30,20000.0,Good,1,Dayton,C-2029,2022-01-01
+C-2223,Harbor Manufacturing,84-6170227,See primary location,,,,See primary location,,,,940-555-0356,ap@harbor.com,NET30,20000.0,Good,1,Toledo,C-2090,2022-01-01
+C-2224,Oakmontnveyor Systems,84-5947745,See primary location,,,,See primary location,,,,3745550909,ap@oakmont.com,NET30,20000.0,Good,1,FortWayne,C-2140,2022-01-01
+C-2225,Northgate Rail & Freight LLC,84-7169672,See primary location,,,,See primary location,,,,(759) 555-9885,ap@northgate.com,NET30,20000.0,Good,1,Dayton,C-2170,2022-01-01
+C-2226,Westbrook Manufacturing,84-2355791,See primary location,,,,See primary location,,,,520.555.0950,ap@westbrook.com,NET30,20000.0,Good,1,Toledo,C-2154,2022-01-01
+C-2227,Underhill Hydraulics,84-7296605,See primary location,,,,See primary location,,,,907.555.3978,ap@underhill.com,NET30,20000.0,Good,1,Dayton,C-2026,2022-01-01
+C-2228,Union Equipment,84-2539438,See primary location,,,,See primary location,,,,629.555.7432,ap@union.com,NET30,20000.0,Good,1,Toledo,C-2053,2022-01-01
+C-2058,Kingsbridge Fasteners Inc,84-6080483,155 Dock St,South Bend,IN,43279,155 Dock St,South Bend,IN,43279,5175552248,,NET15,30000.0,Hold,1,FortWayne,,2020-07-15
+C-2039,Underhill Manufacturing,84-7395997,326 Depot St,Dayton,OH,44937,326 Depot St,Dayton,OH,44937,595-555-1438,ap@underhill.com,Prepay,15000.0,Good,1,Dayton,,2022-03-03
+C-2088,Norwood Bearing & Supply,84-6217344,315 Foundry Rd,Cleveland,OH,44660,315 Foundry Rd,Cleveland,OH,44660,(854) 555-6262,ap@norwood.com,Prepay,40000.0,Good,1,Toledo,,2022-04-25
+C-2101,Plainview Power Transmission,84-5703878,48 Siding Ct,Lima,OH,43304,48 Siding Ct,Lima,OH,43304,(873) 555-8531,ap@plainview.com,Prepay,15000.0,Good,1,Dayton,,2022-09-11
+C-2229,ZZZ TEST ACCOUNT,000000000,N/A,N/A,OH,00000,N/A,N/A,OH,00000,000-000-0000,test@test.com,NET30,0.0,Good,1,Dayton,,2015-01-01
+C-2230,ZZZ TEST ACCOUNT,000000000,N/A,N/A,OH,00000,N/A,N/A,OH,00000,000-000-0000,test@test.com,NET30,0.0,Good,1,Dayton,,2015-01-01
